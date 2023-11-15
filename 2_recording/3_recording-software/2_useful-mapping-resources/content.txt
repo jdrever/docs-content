@@ -1,0 +1,21 @@
+Title: Useful mapping resources
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"https://database.bsbi.org/gridref.php\">BSBI DDb grid ref to vice-county converter tool</a></p><p>Finds and maps GB and Irish Grid references in relation to vice-county boundaries. </p><p><a href=\"http://www.cucaera.co.uk/grp5/\">Cucaera.co.uk</a></p><p>Shows grid squares (including DINTY) using backgrounds including Google Earth, OS maps, and also includes detailed vice-county boundaries in GB</p><p><a href=\"http://www.gridreference.ie/\">Get an Irish Grid Reference</a> – Simply click on a map to read off grid reference and altitude.</p><p><a href=\"http://www.bnhs.co.uk/focuson/grabagridref/html/index.htm\">Grab a grid reference</a></p><p>Shows grid squares (including DINTY) at various resolutions, on maps &amp; Google Earth in GB</p><p><a href=\"http://magic.defra.gov.uk/\">Magic</a> – shows SSSI boundaries, etc against detailed OS maps in GB.</p><p><a href=\"http://maps.osi.ie/publicviewer/\">Ordnance Survey Ireland</a>  Searches and maps Irish place names and Irish Grid References.</p><p><a href=\"http://www.streetmap.co.uk/\" title=\"Online map of Britain\">Streetmap.co.uk</a> – Searches and maps place names, grid references, postcodes in GB and displays on OS 1:50,000 or 1:25,000 maps.</p><p><a href=\"http://wtp2.appspot.com/wheresthepath.htm\">Where’s the path</a> OS maps alongside aerial photos with grid refs (including DINTY) in GB.</p>"},"id":"1fc1298f-5181-4fd3-aeb5-ccca123f6fe5","isHidden":false,"type":"text"}],"id":"aad79e24-6d4f-4a04-aa2e-0ef6d8c90445","width":"1/1"}],"id":"cf918391-1370-4f57-959c-484257d26b39"}]
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Related: 
+
+----
+
+Uuid: T2IwU4wzAsmXFxUb

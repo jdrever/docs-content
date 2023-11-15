@@ -1,0 +1,29 @@
+Title: Other resources
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>First of all, don't forget the <a href=\"/@/page/fzx5iJ0mmOfdbUp5\">BSBI MapMate Book</a>, which covers all the topics on this website, plus an additional chapter (Chapter 8) on the use of Schedules and Catalogues.</p><p><a href=\"https://www.mapmate.co.uk/\" target=\"_blank\" title=\"MapMate website\">MapMate Ltd</a> - the company that develops and sells the MapMate software. Their website has lots of useful resources plus contact details for MapMate technical support.</p><p><a href=\"https://groups.io/g/mapmateusers\" target=\"_blank\" title=\"MapMate discussion group\">MapMate discussion group</a> - run by volunteer MapMate enthusiasts</p>"},"id":"623fbcbe-b8da-4fea-970e-b65fd65a7811","isHidden":false,"type":"text"}],"id":"6d9f2d38-399f-4df4-8a83-19b506c65cea","width":"1/1"}],"id":"ad0797fd-ba1d-4abd-9043-dfec3da98f59"}]
+
+----
+
+Description: List of supporting resources when using MapMate.
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: LzVhvGvMt8cU9IUJ

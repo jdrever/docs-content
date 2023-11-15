@@ -1,0 +1,21 @@
+Title: Importing Rare Plants Records lists
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The import process for RPR lists (and checklists in general) is conceptually similar to the import of occurrence records.</p><p>The items file needs to go through the <u><a href=\"/@/page/J68abW6tkcqv5CYR\">Run the taxonomic name process</a></u><a href=\"/@/page/J68abW6tkcqv5CYR\">,</a> in the same way as for occurrence record import. </p><p>The list shouldn’t normally include neophyte tax - if it does, follow <u><a href=\"/@/page/bI4NfZC9MPbsDfW2\">Identifying and excluding neophytes on a conservation list</a></u><a href=\"/@/page/bI4NfZC9MPbsDfW2\"> </a></p><p>For an RPR list, the spreadsheet also needs to include a vice-county column (e.g. a column where, for each row, the value is \"VC9\" or whatever vice-county you are working with).</p><p>In DDb terms, checklists are sets of objects (normally occurrences or taxa) optionally linked with a single value, min/max pair or a set of values along with optional notes and a reference.</p><p>The full list of checklists is here: <u><a href=\"https://database.bsbi.org/checklists.php\">https://database.bsbi.org/checklists.php</a></u> (accessible from tools =&gt; checklists)</p><p>Almost all of those are taxon lists.</p><p>To create a new checklist, use 'New' =&gt; 'Checklist'</p><p>It may be easiest to refer back to an existing RPR checklist to check the settings: e.g.</p>"},"id":"04ad9e72-5ea2-4dd9-8c88-eeff636cb23e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://klQcpgSIs0iMbgAz"],"src":"","alt":"Screenshot of Rare Plants Register checklist","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"","iscentred":"false"},"id":"3da94d75-f388-49a1-844f-2bc3073bd116","isHidden":false,"type":"image"},{"content":{"text":"<ul><li>The free-text <strong>category</strong> field should be \"County Rare Plant Registers\" - the category is used to place the checklist in the list-of-lists.</li><li>For <strong>checklist type</strong> use 'county rare plant register' - which is used to flag to the system that this list should be cached as an RPR conservation attribute.</li><li>The <strong>do not show as linked attribute</strong> affects whether individual occurrence records of taxon should also show this checklist as an attribute.&nbsp;</li><li>The next <strong>is heritable</strong> attribute affects whether taxon ranks below inherit the attribute - they should for RPRs.</li><li>The <strong>checklist items file</strong> should be the plant list import file with taxon ids added.</li><li>The other fields can be left with their default values.</li></ul>"},"id":"1720489c-39e7-4b55-83f2-c9d1bc6061ad","isHidden":false,"type":"list"},{"content":{"text":"<p>Then click the <strong>Preview </strong>button.</p><p>Once uploaded the preview will look similar to this:</p>"},"id":"f762941d-2c5b-4cf4-b401-d90dfd245541","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://SAOGsY5zmdVYhk9t"],"src":"","alt":"Screenshot of Rare Plants Register preview page","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"","iscentred":"false"},"id":"aef39b80-19c7-485d-b478-4c7877547091","isHidden":false,"type":"image"}],"id":"cbfcb5cf-5f92-4597-aa40-31cb3a0f02d6","width":"1/1"}],"id":"7009db7b-bed9-4b52-8904-e68c6ffae389"}]
+
+----
+
+Audiences: Vice County Recorders
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Related: 
+
+----
+
+Uuid: 0g8nvoqRm5nSLYac

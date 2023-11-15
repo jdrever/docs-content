@@ -1,0 +1,29 @@
+Title: Data Validation
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Three data validation tools are available; <a href=\"/@/page/eAG1v0o8WO1XrdZO\">taxon names</a>, <a href=\"/@/page/6UUbsxYpZYKjEZ0B\">recorder names</a> and <a href=\"/@/page/bt7lw6xrFdPHxzld\">grid references</a>.  These all work in a similar way.  Records are submitted as tab delimited text files.  </p>"},"id":"7e1de0d9-bc94-4633-830d-07ac54c9aa54","isHidden":false,"type":"text"},{"content":{"notecontent":"In each case you have to enter the column number for the values to be validated.  The first column is column 0."},"id":"05c538f4-9d42-4ec0-b2df-df22ec8aef8a","isHidden":false,"type":"note"}],"id":"8091bfa9-c903-4520-bc20-3a21e729bd36","width":"1/1"}],"id":"fe6f954c-a327-4a04-983a-f0a75ae657b4"}]
+
+----
+
+Description: Summary of the data validation tools available in the DDb
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: g3VRjUS3bxx4l9Hj

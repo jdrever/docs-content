@@ -1,0 +1,29 @@
+Title: How to submit a record
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"rows":[{"term":"Single records","description":"The BSBI welcomes records of plants growing in the wild in Britain and Ireland. For one-off records, you can use the (link: https://www.brc.ac.uk/irecord/ text: iRecord website) or the (link: https://irecord.org.uk/app/ text: iRecord app), or you can use the (link: https://bsbi.org/record-a-plant text: Record-a-plant form) on the main BSBI website."},{"term":"Multiple records","description":"If you want to submit more than one record, please send them direct to your BSBI County Recorder: you can use the lists and the map on the (link: https://bsbi.org/local-botany text: Local Botany page) on the main BSBI website to find their contact details. If you are unsure which county your plant was found in, just (link: https://www.cucaera.co.uk/grid-ref-to-vice-county/ text: enter the grid ref into this tool). Email your County Recorder to ask in what format they would like to receive your records - some prefer a spreadsheet, some like emails with photos attached etc.\n\nIf you are in one of the few counties without a County Recorder, please contact our (link: mailto:enquiries@bsbi.org text: Enquiries Desk) for further guidance."}]},"id":"db60e9a5-f227-4c52-a4f5-bd0c5d08e39d","isHidden":false,"type":"description-list"}],"id":"f2893d13-cbff-4158-a296-c02e940a2e24","width":"1/1"}],"id":"c4768264-a272-4dd7-a807-4885e153c296"}]
+
+----
+
+Description: What to do if you have single or multiple records to submit
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: 2PjBC15ZUZlYP2mS

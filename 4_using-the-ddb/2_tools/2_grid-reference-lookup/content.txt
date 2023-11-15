@@ -1,0 +1,29 @@
+Title: Grid Reference lookup
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The grid reference lookup tool can be accessed via the Tools menu or directly at <u><a href=\"https://database.bsbi.org/gridref.php\">https://database.bsbi.org/gridref.php</a></u>.  </p><p>This is the best available tool to check the location of a single grid reference, and to find out which vice-county the grid reference is within or overlaps.  In addition, the mean, minimum and maximum altitude for the grid square are given.</p><p>Enter a grid reference in the box highlighted in yellow, below, and click on 'look-up grid reference'.  Alternatively the grid reference picker tool can be used.</p><p>The displayed map highlights the grid square defined by the grid reference, and the vice-county within which the grid reference falls, is shaded.  If the grid reference overlaps the boundary of two or more vice-counties, all intersected vice-counties are shaded in different colours.  In the screenshot below, monad SK1545 is shown to overlap the vc39 / 57 boundary; vc37 to the west of the River Dove, vc57 to the east of the river.  The mean altitude of the monad is 129m (range 111 - 165m).</p>"},"id":"cc2b95fa-19e2-477f-99d7-529456f6392c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://OjFQgIEePYr1Kwy2"],"src":"","alt":"Screenshot of Grid reference panel","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"65904692-1c8b-48e5-b83e-f93e12fe594a","isHidden":false,"type":"image"},{"content":{"text":"<p>The default is the Ordnance Survey base map, but aerial photography can be used as a backdrop via the 'map (Google)' tab.  The 'local pictures' tab is a very nice touch, linking to photographs on <u><a href=\"http://www.geograph.org.uk/\">http://www.geograph.org.uk/</a></u>.  Currently (17/02/2015) this website has photographs taken in more than 273,000 monads (82% of all monads in GB and Ireland).</p>"},"id":"3f614d14-cdad-42d4-8f23-1d098543c881","isHidden":false,"type":"text"}],"id":"ddbb48d5-d427-48f2-bff0-2a0abd8e2640","width":"1/1"}],"id":"5e66a41d-bc7e-4e27-8a9c-00ab1de99727"}]
+
+----
+
+Description: Summary of the grid reference lookup tool in the DDb
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: gxizaMZl8wwdJQNR

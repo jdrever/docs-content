@@ -1,0 +1,29 @@
+Title: A list of all infraspecific taxa in a vice-county
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This query has two parts, signified by the <strong>join with</strong> part of the screenshot below.  The first part of the query creates a list of taxa recorded in the vice-county, Cardiganshire in this instance.  The records are sub-divided by BSBI date class.  The second part of the query restricts the output of the query to taxa at subspecies rank or below.  It therefore returns a list of all infraspecific taxa; subspecies, varieties, forms and cultivars.</p>"},"id":"b711327b-c155-441a-a420-1420a7c7d683","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://bboUuhWkE3BYDGJZ"],"src":"","alt":"screenshot of all infraspecific taxa for Cardiganshire","caption":"all infraspecific taxa for Cardiganshire: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#query=f473772e751d865229cf43c0d1cae87c","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"88da398e-6b42-4c77-aa03-2b5f2d215239","isHidden":false,"type":"image"}],"id":"6c113679-e5e7-4946-b73d-a1d06ee53763","width":"1/1"}],"id":"4179b5aa-9c37-48eb-b5ca-fd97cc6ff66d"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: saChGY6qURsZo0S4

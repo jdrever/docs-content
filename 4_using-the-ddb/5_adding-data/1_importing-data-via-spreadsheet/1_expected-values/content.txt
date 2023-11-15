@@ -1,0 +1,29 @@
+Title: Expected Values
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This page outlines to expected values for some of the fields in the import process.</p>"},"id":"349d7662-d610-43dd-90e4-63742e660825","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Abundance"},"id":"d98c0fec-e528-4142-b8fd-413da8d7b6d3","isHidden":false,"type":"heading"},{"content":{"col1title":"Expected Values","col2title":"Final Value","rows":[{"col1":"locally rare, loc rare, lr, lr (dafor), locally ra, locally r","col2":"Locally Rare"},{"col1":"locally occasional, lo, lo (dafor), locally oc, locally occ, loc occ, locally o","col2":"Locally Occasional"},{"col1":"locally frequent, loc fr, locally fre, locally freq, locally frqt, loc freq, loc frqt, loc fre, locally f, lf, lf (dafor)","col2":"Locally Frequent"},{"col1":"locally abundant, locally abun, loc abun, loc ab, locally a, la, la (dafor)","col2":"Locally Abundant"},{"col1":"locally dominant, locally dom, loc dom, locally do, locally d, ld, ld (dafor)","col2":"Locally Dominant"},{"col1":"rare, rare dafor, r dafor, r, r (dafor), ra","col2":"Rare"},{"col1":"occasional, occasional DAFOR, o dafor, o, o (dafor), oc","col2":"Occasional"},{"col1":"frequent, frequent DAFOR, f dafor, f, f (dafor), fr, freq, fre, frqt","col2":"Frequent"},{"col1":"abundant, abundant DAFOR, a dafor, a, a (dafor), ab, abun","col2":"Abundant"},{"col1":"dominant, dominant DAFOR, d dafor, d, d (dafor), do, dom","col2":"Dominant"},{"col1":"d10, d9, d8, d7, d6, d5, d4, d3, d2, d1, d+\ndomin10, domin9, domin8, domin7, domin6, domin5, domin4, domin3, domin2, domin1, domin+\n10 domin, 9 domin, 8 domin, 7 domin, 6 domin, 5 domin, 4 domin, 3 domin, 2 domin, 1 domin, + domin","col2":"Corresponding DOMIN values"},{"col1":"very rare, vr","col2":"Very Rare"}]},"id":"33f5f746-f1d9-4674-a42d-1c4ffa848607","isHidden":false,"type":"table-2col"},{"content":{"level":"h2","text":"Record Type"},"id":"7c30d520-f653-4b80-8056-68bc4c149f75","isHidden":false,"type":"heading"},{"content":{"col1title":"Expected Values","col2title":"Final Value","rows":[{"col1":"field gps","col2":"OBSERVATION (with GPS)","co12":"TEST"},{"col1":"field, field record, reported to recorder, record, field / observation, field record / observation, field observation, fr","col2":"OBSERVATION"},{"col1":"voucher, voucher specimen, specimen, specimen provided, specimen taken, collected, herbarium, hr","col2":"SPECIMEN"},{"col1":"literature, literature record","col2":"LITERATURE"},{"col1":"photo, photograph, photographed, photographic record","col2":"PHOTO"},{"col1":"seed collection, seeds, seed","col2":"SEED_COLLECTION"}]},"id":"ac4b0bf2-6d23-4d29-accc-67669d937bcd","isHidden":false,"type":"table-2col"},{"content":{"level":"h2","text":"Status"},"id":"d1ef3999-e9b1-4699-811c-9e4b44977190","isHidden":false,"type":"heading"},{"content":{"col1title":"Expected Values","col2title":"Final Value","rows":[{"col1":"native, endemic","col2":"NATIVE"},{"col1":"introduced, deliberate introduction, introduced and established","col2":"INTRODUCED"},{"col1":"naturalised, naturalized","col2":"NATURALISED"},{"col1":"migrant","col2":"MIGRANT"},{"col1":"casual, adventive","col2":"CASUAL"},{"col1":"surviving","col2":"SURVIVING"},{"col1":"established","col2":"ESTABLISHED"},{"col1":"stocked","col2":"STOCKED"},{"col1":"indoors","col2":"INDOORS"},{"col1":"planted, cultivated, hort, hort.","col2":"PLANTED"},{"col1":"alien, neophyte","col2":"ALIEN_ALL"},{"col1":"(empty), unknown, uncertain, not recorded, void, present, archaeophyte, archeophyte","col2":"UNKNOWN"},{"col1":"escape, escaped, garden escape","col2":"ALIEN_ALL"},{"col1":"flowering, flowers","col2":"UNKNOWN (with 'phenology' tag)"},{"col1":"seedling, seeded, fruiting, vegetative form, vegetative","col2":"UNKNOWN (with 'phenology' tag)"},{"col1":"absent, looked for but not found","col2":"ABSENT"}]},"id":"894d67ea-ec7f-487a-b1e6-07ea1c89b9c4","isHidden":false,"type":"table-2col"}],"id":"3028ff30-95fd-4da5-9c0d-aaed3561a28c","width":"1/1"}],"id":"b3593592-cbe3-41a7-b35c-a5a6cf995788"}]
+
+----
+
+Description: A list of expected values when importing data to the DDb
+
+----
+
+Audiences: Vice County Recorders
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: BAwK6yNpanGpBxeI

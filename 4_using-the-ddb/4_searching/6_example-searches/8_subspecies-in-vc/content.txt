@@ -1,0 +1,29 @@
+Title: A list of all subspecies in a vice-county
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This query is identical to that used for <a href=\"/@/page/saChGY6qURsZo0S4\">infraspecific taxa</a>, but the second part of the query restricts the <strong>taxon rank</strong> to subspecies only, and does not include ranks below.</p>"},"id":"52ef96a2-da74-4985-8f5e-05815c2b34d2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://bRbpiCmht2KqfUh8"],"src":"","alt":"screenshot for all subspecies in a vice-county","caption":"all subspecies in a vice-county: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#query=02c532ed5561bf77efd3fa20829815ac","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"5e736968-d15b-4d23-90f5-bac2e11813f6","isHidden":false,"type":"image"}],"id":"ab387b22-c8f2-441b-ba6b-82ac1ce49934","width":"1/1"}],"id":"5e87323e-94c3-4080-9bae-be88d4c5ff80"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: GyRsCLCuHAfPFueJ

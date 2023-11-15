@@ -1,0 +1,25 @@
+Title: Documentation Home
+
+----
+
+Herotitle: Welcome to the BSBI Documentation website
+
+----
+
+Herosentence: Providing guidance on our key systems and processes relating to botanical recording.
+
+----
+
+Audiences: 
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong> </strong></p><p><strong>Welcome to the BSBI's documentation website.</strong> </p><p>This website contains documentation on the BSBI's key systems and processes relating to botanical recording.</p><p></p>"},"id":"e638f478-924b-47e1-9bde-3b7bf8b2e301","isHidden":false,"type":"text"}],"id":"63641c4b-d1e5-4934-9924-8c5f82a77ad6","width":"1/1"}],"id":"91a5d1c4-45d3-4ed5-8e63-66cd871e7d8b"}]
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><strong>Botanical Society of Britain and Ireland</strong></p><p>The BSBI is for everyone who is interested in the flora of Britain and Ireland. We trace <a href=\"https://bsbi.org/download/31159/\" title=\"\">our origins</a> back to 1836, when the society was founded as the Botanical Society of London. We are now one of the world's largest contributors of biological records: our data inform scientific research and underpin evidence-based conservation.</p><p>Find out more about <a href=\"https://bsbi.org/download/22115/\" title=\"\">BSBI's Policy on Nature Conservation</a>.</p><p>From our earliest days we have welcomed both professional and amateur members: BSBI remains the biggest and most active organisation devoted to the study of botany in Britain, Ireland, the Channel Isles and the Isle of Man. Our training, outreach and research programmes continue to support botanists at all skill levels.</p><p>An education and training <a href=\"https://bsbi.org/grants\">grants</a> programme supported by BSBI aims to bring high quality botanical <a href=\"https://bsbi.org/training\">training</a> within the reach of all; scientific <a href=\"https://bsbi.org/research\" target=\"_blank\">research</a> on British botany is supported by our staff and officers, and through our research <a href=\"https://bsbi.org/grants\">grants</a> scheme, while our outreach activities help us <a href=\"https://bsbi.org/news-views\" target=\"_blank\">reach new audiences</a> and attract the <a href=\"https://twitter.com/BSBIbotany\" target=\"_blank\">next generation of botanists</a>.</p><p>The BSBI produces <a href=\"https://bsbi.org/atlas-2020\">national Atlases</a> and county Floras of the <a href=\"https://bsbi.org/research\">distribution of plants</a>. We publish <em><a href=\"https://britishandirishbotany.org/\">British and Irish Botany</a></em> and hold <a href=\"https://bsbi.org/recorders-conference\" target=\"_blank\">conferences</a>, workshops, <a href=\"https://bsbi.org/annual-exhibition-meeting\" target=\"_blank\">indoor</a> and <a href=\"https://bsbi.org/field-meetings\" target=\"_blank\">field meetings</a>. Members are kept informed by a <a href=\"https://bsbi.org/bsbi-news\">newsletter three times a year</a> and are invited to make use of our system of <a href=\"https://bsbi.org/local-botany\">County Recorders</a> and national referees who can help with the <a href=\"https://bsbi.org/identification\">identification</a> of plants.</p>"},"id":"8178fe8b-6903-450f-a671-bc5b746d2731","isHidden":false,"type":"text"}],"id":"f4f78645-fca5-4779-8d18-9afa4926d419","width":"1/1"}],"id":"82e495b8-1eab-4168-8f69-2bcd71f3908b"}]
+
+----
+
+Uuid: MWbWV3b5Yuz1cUt9

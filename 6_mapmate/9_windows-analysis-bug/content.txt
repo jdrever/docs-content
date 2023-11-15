@@ -1,0 +1,29 @@
+Title: Windows 10 and later analysis bug
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>On Windows 8 and 10, some MapMate users have encountered a problem with the analysis tree (the list of database queries) not displaying correctly. To fix this problem you need to disable Windows' on-screen keyboard (a rarely used feature that allows a touch screen to be used for typing).</p><p>To correct the problem with MapMate's analysis tree</p>"},"id":"9cd77a90-b023-4d89-992c-8ba82b36fb8d","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>click <strong>start </strong>(or press the Windows key ⊞ )</li><li>type services, and press enter</li><li>find the <em>Touch Keyboard and Handwriting Panel Service</em></li><li>right-click on <em>Touch Keyboard and Handwriting Panel Service</em> and click <em>stop</em> (MapMate should work fine from this point on)</li></ul>"},"id":"eccb8455-55c9-41e9-b7a3-017f5116caf1","isHidden":false,"type":"list"},{"content":{"text":"<p>If you need more help, there are <a href=\"https://www.howtogeek.com/259900/how-to-permanently-disable-the-touch-keyboard-in-windows-8-and-10/\" target=\"_blank\">step-by-step instructions with screen-shots</a> (under Solution One: Disable the Touch Keyboard Service).</p>"},"id":"8689901d-164f-447d-8dc1-90d70b739cc2","isHidden":false,"type":"text"}],"id":"788addff-f531-47b3-9b26-f8345fe95c31","width":"1/1"}],"id":"17301059-072d-49c5-8f90-8d3e2b7c660e"}]
+
+----
+
+Description: How to fix the analysis bug in MapMate on Windows 10 and later.
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: lljAAaSYgmalEJta

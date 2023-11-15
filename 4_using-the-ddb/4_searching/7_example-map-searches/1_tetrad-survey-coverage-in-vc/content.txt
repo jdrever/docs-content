@@ -1,0 +1,29 @@
+Title: A map showing tetrad survey coverage in a vice county for the period since 2000
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>BSBI guidance for the Atlas 2020 project was that, wherever possible, a minimum of 5 tetrads are surveyed (reasonably thoroughly) in each hectad in the period 2000 – 2019.  A map showing species recorded per tetrad in a vice-county can be created using the DDb.</p>"},"id":"e9feaa5f-3919-417c-846f-7743df468b2f","isHidden":false,"type":"text"},{"content":{"text":"<p>The records are grouped by tetrad (<strong>more options &gt; grouping &gt; group by</strong>), with distinct species (<strong>more options &gt; grouping &gt; distinct).</strong></p><p>The class intervals displayed on the map are automatically set within the DDb mapping software, but some flexibility is provided by adding a ‘frequency’ clause to the query; available via <strong>more options &gt; grouping</strong>.</p><p>This query returns a list of tetrads with at least 50 species recorded since 2000 in vc96.</p>"},"id":"fe26d5d8-dcc0-48e4-b102-13eadfc081e9","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://ZQ8vxm0UjEUD39SQ"],"src":"","alt":"screenshot for search showing tetrad survey coverage in a vice county for the period since 2000","caption":"search showing tetrad survey coverage in a vice county for the period since 2000: click to see the query in the DDb","link":"https://database.bsbi.org/search.php#retrievesaved=0.wyce2&query=61afcae04f008aa11c116e65196c056d","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"fbdd2600-dc8a-4262-b38e-4dc44e54c0c4","isHidden":false,"type":"image"},{"content":{"text":"<p>It may be useful to view recording coverage in adjacent vice-counties, and this can be particularly helpful where hectads overlap the vice-county boundary.  Add additional vice-counties to the query by clicking on the green plus symbol to the right of county/region.</p>"},"id":"6b325f73-dfae-4c56-9340-2ccf0409e1f4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://B0mGsoV42I0nRFdG"],"src":"","alt":"search screenshot showing tetrad survey coverage in a vice county (with adjacent county added) for the period since 2000","caption":"tetrad survey coverage in a vice county (with adjacent county added) for the period since 2000: click to see the query in the DDb","link":"https://database.bsbi.org/search.php#retrievesaved=0.wyced&query=53971529ef48202a1ac38016a859178f","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"f8a88aaa-6757-4735-85fd-5951e95ccbef","isHidden":false,"type":"image"},{"content":{"text":"<p>Results from this query can be mapped by clicking on the <strong>zoomable or printable map</strong> tabs.  Using the printable map, the map area is restricted to the vice counties of interest by clicking on the <strong>areas and boundaries</strong> tab, and entering the individual VCs, in this case VC96 and VC106.</p>"},"id":"8f4e3f36-3223-4886-ad62-f8c7db15511d","isHidden":false,"type":"text"}],"id":"04f7b907-2d7c-4e4c-bd71-c0ab81b0ddf6","width":"1/1"}],"id":"8fc8620b-a434-460e-87bf-257522e211ce"}]
+
+----
+
+Description: An example map search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: INcmjVE5RVkAcIEE

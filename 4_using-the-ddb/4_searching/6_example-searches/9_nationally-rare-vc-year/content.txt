@@ -1,0 +1,29 @@
+Title: A list of all records for Nationally Rare and Nationally Scarce taxa in a vice-county in a year
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The three queries below, using Moray (vc95) in 2022 as an example, illustrate different approaches that may be taken.</p><p>The first query lists all records for taxa listed as Nationally Rare or Nationally Scarce in vc95 in 2022.  It does so irrespective of whether the taxa are native in vc95, or in that hectad.  </p><p>We do this by adding <strong>more options &gt; attributes &gt; conservation status summary</strong>, and selecting <strong>Nationally rare or scarce</strong>.</p><p>As of October 2023 this query returns 227 records.</p>"},"id":"815f6aa6-1f95-4728-8d7d-5539f8dd0b31","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://Vb0gUVQxs7f5V4sw"],"src":"","alt":"all records for taxa listed as Nationally Rare or Nationally Scarce in vc95 in 2022","caption":"all records for taxa listed as Nationally Rare or Nationally Scarce in vc95 in 2022: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wy316&query=361803f2aab3c4fddffde57bd0573186","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"1d7b250a-633d-4534-bfa2-f01c9afac9fa","isHidden":false,"type":"image"},{"content":{"notecontent":"You can enter either **rare** or **scarce** into the **Nationally rare or scarce** field to filter down as required."},"id":"f2763c2b-cea0-4e80-ba00-10e2175dc8dc","isHidden":false,"type":"note"},{"content":{"text":"<p>The query can be restricted to only returning records where the taxa are listed as native in each hectad in Atlas 2020.  The modification to the query is included via <strong>more options &gt; attributes &gt; status (external scheme)</strong>, selecting <strong>native</strong> and <strong>Atlas 2020</strong>.</p>"},"id":"f6b9404d-668f-43c1-9c4b-c3de00ba5c68","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://A02LSmJ4qpIS7N5E"],"src":"","alt":"screenshot of all records for native taxa listed as Nationally Rare or Nationally Scarce in vc95 in 2022","caption":"all records for native taxa listed as Nationally Rare or Nationally Scarce in vc95 in 2022: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wy319&query=f54e5e6242104a5df05660200dc722a5","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"2ba80556-90d7-4ad8-a1c6-15e01cd3e232","isHidden":false,"type":"image"},{"content":{"text":"<p>This query returns (as of October 2023) 59 records.  But this query excludes any records for hectads where the taxon had not been recorded in Atlas 2020.  To list these records you need to modify this query, changing the status (external schema) field to <strong>no status information</strong></p>"},"id":"77b3e195-0e54-47a4-bbcd-3d2a22aa254f","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://uQKhZx97AxFoCLKC"],"src":"","alt":"screen shot of records for hectads where the taxon had not been recorded in Atlas 2020","caption":"records for hectads where the taxon had not been recorded in Atlas 2020: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wy32q&query=4f67fcf323f0132fc7181ea8c1a42034","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"4b13ef8d-d418-443b-9646-7f76f8ff03d7","isHidden":false,"type":"image"},{"content":{"text":"<p>This last query returns (as of October 2023) 9 records.  Some of these will be new hectad records of native species, while others will be new hectad records of alien species (in this vice-county).</p>"},"id":"8ab5c547-67d0-4032-a331-977366cdb6ed","isHidden":false,"type":"text"}],"id":"9c60f73a-e603-417f-9cc9-f5dd55e15541","width":"1/1"}],"id":"aee73a2f-205f-4f46-aff5-e61b58ceb4cf"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: OcpdopZVSAIeQs5Y

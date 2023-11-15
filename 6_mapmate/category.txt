@@ -1,0 +1,25 @@
+Title: Using MapMate
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Welcome to these pages containing video screencasts and other resources to demonstrate ways of using the <a href=\"https://www.mapmate.co.uk/\" target=\"_blank\">MapMate</a> species recording database. They are primarily for <a href=\"https://bsbi.org/\" target=\"_blank\">BSBI</a> recorders and members who use MapMate for recording plant species. However, other MapMate users are very welcome! </p><p>We recommend that you view the YouTube video clips using full-screen: use the icon which appears at the bottom right of each video once the video has started to play.</p>"},"id":"e786ae33-8dae-4f6f-bfdd-a2a60fe423cc","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://452OMBmo7tPOhvYl"],"src":"","alt":"YouTube full screen icon","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"200","iscentred":"false"},"id":"ea8fb86c-3227-463c-92d8-319695d280aa","isHidden":false,"type":"image"},{"content":{"notecontent":"The (link: page://fzx5iJ0mmOfdbUp5 text: BSBI MapMate Book), by Martin Rand is available within this website."},"id":"72415d73-cfdc-4ac3-a414-2314a4728669","isHidden":false,"type":"note"},{"content":{"notecontent":"If you are having issues installing MapMate on a Windows 10 or 11 computer, please (link: https://drive.google.com/file/d/11zL8ILpRQ-OFYUv0x1jRrzWCdjfke0mA/view text: follow this guidance).  There is also (link: page://lljAAaSYgmalEJta text: guidance for the Windows 10 and later analysis bug)."},"id":"948e9c19-8776-4261-83da-4b59182ccde8","isHidden":false,"type":"note"}],"id":"0af2153c-b80b-49e5-9758-2b2792fd67e5","width":"1/1"}],"id":"5ee69b34-0748-41e7-ae2a-47be25ec8229"}]
+
+----
+
+Credits: These pages have been compiled for BSBI by Martin C. Harvey, with funding from (link: http://www.snh.gov.uk/ text: Scottish Natural Heritage)
+
+----
+
+Description: An introduction to using MapMate
+
+----
+
+Audiences: Vice County Recorders, Recorders
+
+----
+
+Requirements: 
+
+----
+
+Uuid: 7iXbeCKFUVgukHq2

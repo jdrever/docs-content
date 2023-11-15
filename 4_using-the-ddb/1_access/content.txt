@@ -1,0 +1,29 @@
+Title: How to access the DDb
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>You can access the DDb by browsing to <a href=\"https://database.bsbi.org/\">https://database.bsbi.org/</a>.  </p><p>If you don't have a login, you are still able to access the <a href=\"/@/page/OMjAF6xDZigrDkEF\">Distribution maps</a> and a  range of <a href=\"/@/page/DWvNE4NwA5gUd8oD\">tools</a> for checking and formatting records. </p><p>If you do have a login, you can click on <strong>login</strong> in the top menu bar.</p>"},"id":"43ff30ff-1870-4d1f-b505-fcfb98401818","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://hh3nXYRibMEb7VMp"],"src":"","alt":"screenshot of login option in menu","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"6e38c1de-83b4-49ec-8301-4241779763fd","isHidden":false,"type":"image"},{"content":{"text":"<p>Then you will be able to enter your username and password, and click <strong>Login</strong>.</p>"},"id":"aca2873b-7490-4d87-9678-268ce55beec6","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://ECHxDWVS7bISnnd6"],"src":"","alt":"screenshot of login page","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"7e7b1d73-90d2-4da7-9103-01fae3ceb367","isHidden":false,"type":"image"},{"content":{"text":"<p>By default, you will stay logged in for 30 days.  If you are working on a shared computer, you can change the <strong>save details option </strong>to <strong>shared computer (do not have password)</strong>.</p>"},"id":"4cda05a2-aff3-4de6-a393-76076c76259c","isHidden":false,"type":"text"},{"content":{"text":"<p>If you have forgotten your password, then follow the option to receive an email asking you to reset your password.</p>"},"id":"1dc506c9-def6-4ef5-9c83-0c3a1d3aeb20","isHidden":false,"type":"text"},{"content":{"notecontent":"(link: page://5eyA3yPeMNTRGuQ5 text: Find out more about accessing BSBI data and the DDb.)"},"id":"0849038b-5d97-47f4-8fd3-b0f30d11272b","isHidden":false,"type":"note"}],"id":"23942790-6bce-4ec6-8a5d-106ef9db1181","width":"1/1"}],"id":"0afedcfb-f15d-4e85-975c-639400bc1c38"}]
+
+----
+
+Description: How to log on to the DDb
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: tdh1HCuoscPTmkop

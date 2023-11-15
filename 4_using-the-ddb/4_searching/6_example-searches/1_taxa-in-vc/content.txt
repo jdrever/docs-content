@@ -1,0 +1,29 @@
+Title: A list of all species / taxa recorded in a vice-county
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Creating a list of taxa recorded in a vice-county requires two simple steps.</p><p>Firstly, enter the vice county in the <strong>county/region</strong> field.  </p>"},"id":"c2e94ca9-9caf-4120-9f61-c3a367373ce5","isHidden":false,"type":"text"},{"content":{"notecontent":"You can use the vice county name (e.g. Shropshire) or number (e.g. 40).  Confirm your choice from the drop down menu. You can also combine multiple vice counties if you add a comma having confirmed your previous choice."},"id":"96e60c13-26fa-4b04-8b2d-6fe828b4ba52","isHidden":false,"type":"note"},{"content":{"text":"<p>Then add a ‘group by’ clause via <strong>more options &gt; grouping.</strong>  You can choose from several taxon options.</p>"},"id":"391ae2d7-0fda-411e-bca6-5014c0ef7769","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://XZuOTyMaFSfBk81k"],"src":"","alt":"screenshot of group by taxa options","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"fa355e06-bf0c-4bab-8092-459c00384c76","isHidden":false,"type":"image"},{"content":{"text":"<p>Selecting <strong>taxon name (including qualifier and authority)</strong> provides the greatest detail; <strong>species</strong> includes subspecies within the parent species total, but retains hybrids as separate entries.</p>"},"id":"0c866f24-58c8-465a-84d5-f0064f5996ac","isHidden":false,"type":"text"},{"content":{"notecontent":"With a query of this kind it is a good idea to add validation to ensure that the vice county and grid reference match.  You do this via **more options > validation > Grid-ref and vc validation**.  There is more  information on this in the (link: page://itjPRbm5vOEcA7KK text: Advanced Searching) page."},"id":"bb348d77-8adc-4513-9cdc-331a1431274b","isHidden":false,"type":"note"},{"content":{"location":"kirby","image":["file://DnUYESZToGQp5kyE"],"src":"","alt":"","caption":"adding 'records where grid-reference and county match'","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"16d6f2ab-0b60-4430-b366-ce073d7489b8","isHidden":false,"type":"image"},{"content":{"text":"<p>If we use West Mayo as the vice county, we get the following number of taxa returned as of October 2023 (if you have a DDb login, you can click into each variant of the query to see the query and its current results):</p>"},"id":"88e14999-df99-4214-a4c1-0cbbbb2700e1","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><a href=\"https://database.bsbi.org/search.php#retrievesaved=0.wny2d&amp;query=a3bb382361ce38a1e95809824514f976\" title=\"see the query in the DDb\">taxon name (including qualifier and authority): 1422 records</a></li><li><a href=\"https://database.bsbi.org/search.php#retrievesaved=0.wny2r&amp;query=3f6ff0bbd84bd38895902bbd3e59152e\" title=\"see the query in the DDb\">species name (including species and aggregates): 1268 records</a></li></ul>"},"id":"dbe86439-bf60-4031-a071-b9be0a36a418","isHidden":false,"type":"list"}],"id":"c88f1e8d-c341-4643-9142-c8c11303b63d","width":"1/1"}],"id":"69eb1d32-d6a6-4ae7-a290-5e94632b616b"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: 0FiVDWxODRwx1cjt

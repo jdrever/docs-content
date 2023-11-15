@@ -1,0 +1,29 @@
+Title: The BSBI MapMate Book
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>BSBI commissioned Martin Rand to write a comprehensive handbook, covering all aspects of MapMate use from a BSBI perspective. This is a fantastic resource that should help answer almost any query you have about using MapMate! The available chapters can be downloaded as PDF files using the links below.</p><p><a href=\"mailto:vc11recorder@hantsplants.org.uk\">Martin Rand</a> would be pleased to hear from you if you find any errors in the handbook, and to receive suggestions for improvement or other comments.</p>"},"id":"e0a186a6-53a1-44ff-b366-a34bd873709b","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><a href=\"https://drive.google.com/file/d/1_gkHKIQnqWbsLEy5bnmqU47cd28Ieog6/view?usp=sharing\" target=\"_blank\">BSBI MapMate Handbook prelims</a></li><li><a href=\"https://drive.google.com/file/d/1oaS8S2tv-MiT0wMC5PFBhP3QMePlfc1h/view?usp=sharing\" target=\"_blank\">How to use this book</a></li><li><a href=\"https://drive.google.com/file/d/1YBnkLeci4sJ8jY4OXcJPBysq5zGv_dMI/view?usp=sharing\" target=\"_blank\">Chapter 1: Installing and Setting Up MapMate</a></li><li><a href=\"https://drive.google.com/file/d/1vqL8gsMCqFCPCW54ZwCQTDC2GHpLinPU/view?usp=sharing\" target=\"_blank\">Chapter 2: Preparing for Action</a></li><li><a href=\"https://drive.google.com/file/d/1rVFDEUzXh4eH9x-ts1GOkxwE5_J1UeaZ/view?usp=sharing\" target=\"_blank\">Chapter 3: Data Entry</a></li><li><a href=\"https://drive.google.com/file/d/10M2-rkjJsAy_w8peBoJQ5JyFXcYen0kr/view?usp=sharing\" target=\"_blank\">Chapter 4: Reporting and maintaining</a></li><li><a href=\"https://drive.google.com/file/d/1ADTLOnxttJmdsa8ffLeStxo5YyFwTyle/view?usp=sharing\" target=\"_blank\">Chapter 5: Exchanging Data</a></li><li><a href=\"https://drive.google.com/file/d/1ceQrjr9OYz6jcR1TePLnrsiki6rHLQaQ/view?usp=sharing\" target=\"_blank\">Chapter 6: Backup and Recovery</a></li><li><a href=\"https://drive.google.com/file/d/1inxyvtkOzkIM68LljQLqs3ZkFb49SGHG/view?usp=sharing\" target=\"_blank\">Chapter 7: Maps and Atlases</a></li><li><a href=\"https://drive.google.com/file/d/1URcarjvTf2x28ZT2lz97808tCmotOgnX/view?usp=sharing\" target=\"_blank\">Chapter 8: Schedules and Catalogues</a></li><li>[Chapter 9: Using MapMate with Other Applications - not yet available.]</li><li><a href=\"https://drive.google.com/file/d/1z650dp6za_JAx9Xe0EACj8BpYBBA1c4p/view?usp=sharing\" target=\"_blank\">Chapter 10: Keeping Up To Date</a></li><li><a href=\"https://drive.google.com/file/d/1Da3ZkLueshsoz8nQ7idpsVSMLvsfUCtQ/view?usp=sharing\" target=\"_blank\">Appendix A: MapMate Data Model</a></li><li><a href=\"https://drive.google.com/file/d/1JJAFAC9D0dxFMgpfi3OlTgmjfFalSchV/view?usp=sharing\" target=\"_blank\">Appendix B1: Useful Queries</a></li><li><a href=\"https://drive.google.com/file/d/1WKlDtW5NY1oA-U4T4OQZXIna_C0Ya-zk/view?usp=sharing\" target=\"_blank\">Appendix B2: text file containing SQL for custom queries</a></li><li><a href=\"https://drive.google.com/file/d/1HThCRDLXQ3JosWOUXQ_zqP0fpJDvndUX/view?usp=sharing\" target=\"_blank\">Appendix C: Glossary</a></li></ul>"},"id":"f3bb465e-bc06-4a81-88be-9254e34d428f","isHidden":false,"type":"list"},{"content":{"notecontent":"In places the Handbook makes use of a training database, see Chapter 2, page 2-7. The training database can be downloaded here: (link: https://drive.google.com/file/d/16gVSdhoUjwYm3lxgxVKvKZOpDQ_uPtkQ/view?usp=sharing text: Training.mdb (zip file))."},"id":"88f84712-06e5-46fb-a5af-f197b30f88ab","isHidden":false,"type":"note"},{"content":{"text":"<p><em>The MapMate Book, © Martin Rand and Botanical Society of Britain and Ireland 2013.All Rights Reserved. Except as permitted under current legislation, and for non-commercial personal use, no part of this work may be photocopied, stored in a retrieval system, published, adapted, broadcast, transmitted, recorded or reproduced in any form or by any means, without the prior permission of the copyright owners.</em></p><p>Martin Rand is Vice-county Recorder for South Hampshire - see the <a href=\"https://hantsplants.uk/\" target=\"_blank\" title=\"Hants Plants website\">Hants Plants website</a>.</p>"},"id":"fd31ec2c-f715-46d3-b889-c3354f10541b","isHidden":false,"type":"text"}],"id":"a134c401-ed12-4d85-aca8-88fabc3a6f98","width":"1/1"}],"id":"b349e66f-ce47-4a78-9b0b-0ceee9b2e573"}]
+
+----
+
+Description: A comprehensive handbook, covering all aspects of MapMate use from a BSBI perspective.
+
+----
+
+Audiences: Vice County Recorders, Recorders
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: fzx5iJ0mmOfdbUp5

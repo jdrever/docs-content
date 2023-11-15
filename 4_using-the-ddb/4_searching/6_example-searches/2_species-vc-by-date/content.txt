@@ -1,0 +1,29 @@
+Title: A species list for a vice-county subdivided by BSBI date class
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>If we follow the the instructions for <a href=\"/@/page/0FiVDWxODRwx1cjt\">creating a species list for a vice county</a>, there is one additional step, which is adding a ‘subdivide’ clause via <strong>more options &gt; grouping.</strong></p><p>‘Subdivide’ adds additional columns to the output of the query, giving the number of records for each taxon in each date class period.</p>"},"id":"7a7a848b-1ebb-491f-9726-50fff249ccaa","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://PeozzvWRnlkS9YZN"],"src":"","alt":"screenshot of vice county search grouped by taxon name and sub-divided by date class","caption":"vice county search grouped by taxon name and sub-divided by date class: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wny2z&query=7acac466ce93e4eb60eed8279dd2872a","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"426e450e-4470-4c3f-823e-3a58f329e1f5","isHidden":false,"type":"image"},{"content":{"text":"<p>This query can be modified to give a count of hectads for each species in each date class, by adding a <strong>more options &gt; grouping &gt; distinct</strong> clause to the query, and selecting <strong>hectad</strong>.</p>"},"id":"b41b6b35-f04a-4cac-a492-26632a27bc31","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://itGIMSoejXfdSqTu"],"src":"","alt":"screenshot of number of taxon found in distinct hetrad in a vice county grouped by date","caption":"number of taxon found in distinct hetrad in a vice county grouped by date: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wny30&query=f454731dbbd82148e1267eb616917c70","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"5c6d9ba6-1e6f-4628-b898-afcb6c3ac512","isHidden":false,"type":"image"},{"content":{"text":"<p>Because old historic records are often only available at hectad resolution (at best) running this query at the hectad precision level is sensible as it allows comparison over many decades.</p>"},"id":"c2f145dc-3bc9-4c7f-85dd-c25d74f5b612","isHidden":false,"type":"text"}],"id":"31be7570-fc99-453c-8eab-552d3ff148b5","width":"1/1"}],"id":"525bc61d-3412-4044-8355-88704b51fcc6"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: HzKRdCy5XLLHC4go

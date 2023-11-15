@@ -1,0 +1,29 @@
+Title: Data entry
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"notecontent":"See also Chapter 3 in the (link: page://fzx5iJ0mmOfdbUp5 text: BSBI MapMate Book) and the (link: page://OqofarsbodYqNxvV text: BSBI data entry guidance )"},"id":"1b33e650-dd5e-4694-94f4-179c9945ed7d","isHidden":false,"type":"note"},{"content":{"level":"h2","text":"Preparing the initial settings in MapMate"},"id":"ba476b80-8167-4e01-9c91-6e5448534002","isHidden":false,"type":"heading"},{"content":{"text":"<p>Preparation can make data entry easier - best done before you go ahead and start entering your data!</p>"},"id":"56141325-d659-4095-bd4f-56e84c40d376","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/DWQ1sEB7dAs","caption":"Data entry settings video"},"id":"5925697a-3dfa-4a71-ae59-1cd76dc46577","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Some suggested shortcuts for speeding up data entry"},"id":"ad0c3556-e380-4e03-bda1-d75ea71c0d56","isHidden":false,"type":"heading"},{"content":{"url":"https://www.youtube.com/watch?v=h5Dolk0aHNs&t=1s","caption":"Data entry shortcuts"},"id":"39458768-cb04-4ede-9e70-33f938f49cc1","isHidden":false,"type":"video"},{"content":{"notecontent":"Additional (link: https://docs.google.com/viewer?a=v&pid=sites&srcid=YnNiaS5vcmcudWt8YnNiaW1hcG1hdGV8Z3g6NWZmZmI2Yjg0YTNkMDNkZg text: guidance on how to set up 'taxon validations') to prevent unlikely species being entered by mistake is available."},"id":"16a706b4-9664-41aa-80a7-adf437702d26","isHidden":false,"type":"note"},{"content":{"notecontent":"See (link: page://wiVYRfFLRnNHUeX8 text: Data exchange - syncing and importing records) for how to import data from other MapMate users."},"id":"ac1624bc-aa3d-4b97-aba4-028f26727c0a","isHidden":false,"type":"note"}],"id":"fac7c75f-a24f-495b-902f-2911ae77e981","width":"1/1"}],"id":"bcfad674-c8db-4700-97f7-9a9c5debcddf"}]
+
+----
+
+Description: Description of data entry processes in MapMate
+
+----
+
+Audiences: Vice County Recorders, Recorders
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: azVe95SViVPyYkqJ

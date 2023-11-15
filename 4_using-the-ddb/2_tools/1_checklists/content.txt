@@ -1,0 +1,29 @@
+Title: Checklists
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The list of checklists is available through the Tools menu or can be accessed directly at <a href=\"https://database.bsbi.org/checklists.php\">https://database.bsbi.org/checklists.php</a></p><p>More than 60 Checklists, available for use in DDb queries can be accessed via this tab.  They can be downloaded as csv files for use in spreadsheets.  To download a checklist, click into it and go to the <strong>Items</strong> tab.  Then click on the <strong>download list</strong> link. </p>"},"id":"c38365d9-1ac7-45e5-b7f5-fe0300a92a26","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://9b1uC0VxxsuOm27B"],"src":"","alt":"screenshot of Download list button","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"21693691-e0a9-4b53-b5c3-aaed283bf04d","isHidden":false,"type":"image"},{"content":{"text":"<p>As used by the DDB, 'Checklists' provide a general-purpose way of grouping or applying attributes to records when running queries.  Checklists consist of a set of 'key' values which link to a field (e.g. a taxon name). Each item in the checklist set may optionally have a data value associated with each key.</p>"},"id":"f54262b1-b956-4a7c-b100-383a4f031037","isHidden":false,"type":"text"}],"id":"46d7fa87-c168-4aaf-a429-edd15d0e8b5b","width":"1/1"}],"id":"2bcd24c0-07e0-40dd-8376-53629e590cdb"}]
+
+----
+
+Description: Summary of the checklist tools available in the DDb
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: gpBUpy5vL8UmkGcJ

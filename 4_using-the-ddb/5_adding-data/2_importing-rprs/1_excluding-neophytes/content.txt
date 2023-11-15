@@ -1,0 +1,17 @@
+Title: Identifying and excluding neophytes on a conservation list
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>If a conservation list includes neophyte taxa (alien taxa deemed to have been introduced post-1550) that would normally be excluded. Those should be filtered out. That can probably be done most easily once the whole list has been parsed for taxon ids. At that point the entire list of taxon ids can be pasted directly from the spreadsheet into the name field (\"more options\" =&gt; \"name\" =&gt; \"taxon\") of a taxon search, with a filter set to show only taxa with neophyte national status, (\"more options\" =&gt; \"attributes\" =&gt; \"status (external scheme)\" ... neophyte GB national status. This step wouldn't usually be necessary.</p>"},"id":"bcadb070-aa43-4902-8045-909882f2e8d4","isHidden":false,"type":"text"}],"id":"10648d53-7216-4cd0-b4e1-83f0a334cecc","width":"1/1"}],"id":"73434c6c-6312-4c43-b20d-204c17e1af69"}]
+
+----
+
+Audiences: Vice County Recorders
+
+----
+
+Related: 
+
+----
+
+Uuid: bI4NfZC9MPbsDfW2

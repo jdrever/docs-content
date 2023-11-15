@@ -1,0 +1,29 @@
+Title: Grid references
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Grid-references"},"id":"328dfdbc-88c5-479a-9145-d6a5dbb192e5","isHidden":false,"type":"heading"},{"content":{"text":"<p>Checks for malformed references and matches grid-references to vice-county boundaries.  Grid references that cannot be parsed are indicated and should be reformatted manually.</p>"},"id":"c0d907cc-8279-4227-920c-d67d809edc2a","isHidden":false,"type":"text"}],"id":"7748f832-e7de-446f-87b2-787f087f75e4","width":"1/1"}],"id":"c137a2e1-fe5a-4e1f-be26-afe65c389144"}]
+
+----
+
+Description: Explanation of the grid reference validation process in the DDb
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: bt7lw6xrFdPHxzld

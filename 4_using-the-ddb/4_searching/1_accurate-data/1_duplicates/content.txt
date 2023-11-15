@@ -1,0 +1,29 @@
+Title: The difference between duplicates and tagged duplicates
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The filter duplicates criteria references duplicates and tagged duplicates.  What is the difference between these two types of duplicates?</p>"},"id":"acb9f7d6-f73c-40d9-b14d-95cca3729eb5","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Duplicates</strong> uses a live calculation to remove duplicates from amongst the raw records returned by the current search.</li><li><strong>Tagged Duplicates</strong> excludes records that have been pre-cached with an automatically applied duplicate flag (based on total records rather than those for only the specific query).</li></ul>"},"id":"c2958adc-5d4f-4e91-9430-ae92202b4930","isHidden":false,"type":"list"},{"content":{"text":"<p>Duplicate matching is on the basis of compatibility of taxon name, grid-reference and date. It ignores all other attributes. This can lead to some strange inconsistencies if using tagged duplicates, e.g. given the following records:</p>"},"id":"b8b8fefd-b3c8-4d7b-87c7-9fdbd5afa95e","isHidden":false,"type":"text"},{"content":{"text":"<p>a. Poa annua; Jane Smith; 2023-11-06; SD1234</p><p>b. Bellis perennis; Jane Smith; 2023-11-06; SD121341</p><p>c. Poa annua; Joan White; 2023-11; SD1234</p><p>d. Bellis perennis; Joan White; 2023-11-06; SD1234</p>"},"id":"7db544ff-aad6-483f-9e43-864b5c318190","isHidden":false,"type":"text"},{"content":{"text":"<p>The system would have tagged <em>c</em> as a duplicate of <em>a</em> (equivalent details, with the date of (a) being more precise - but still compatible with the month range of c)</p><p>and <em>d</em> as a duplicate of <em>b</em> (because b has a more precise, grid-ref, contained within the monad specified by d)</p><p>A search for records from SD1234, filtering duplicates on a live basis would return the same two records as a tagged filter. However, if the search also had a filter for 'Joan White' then a tag-filtered result set would have no records - as both of Joan White's records would have been suppressed, but a live filter would yield Joan's records, as Jane Smith's were not included in the duplicate test.</p><p>Live filtering only works for searches returning ungrouped data and is much slower than tagged duplicate filtering. It also runs into problems if a query exceeds the record limit (e.g. 50000) as the test would only be within the arbitrary pool of 50000.</p><p>Tagged filtering is usually fine for large summary queries where the precise details of which records are suppressed are immaterial, e.g. when, annually, BSBI report how many records are in the database we would always filter out tagged duplicates.</p><p>Duplicate filtering of any sort is risky. There is no certainty that the 'better' of two duplicates will be returned (e.g. a record with detailed notes and status, versus one with no extra detail). It can however be useful for requests where that extra detail is irrelevant - e.g. if a surveyor wanted a list of taxa and locations for a site, they probably only need the minimal set of records - they won't be using recorder names or notes.</p><p>Duplicate tagging is refreshed by a background task that runs daily.</p><p>It's also possible to set 'duplicate' as a validation state, which is an entirely separate concept. In part the automated tagging exists to discourage people from attempting potentially misguided manual tagging of duplicates. Manual duplicate tagging can be worthwhile in rare circumstances where an entire set of records is known to be duplicated, e.g. loaded twice via different routes, or perhaps after a data entry error where someone knows that they added the same occurrence twice.</p>"},"id":"31cc4abd-5264-49f1-af2b-dcd7afa35c67","isHidden":false,"type":"text"}],"id":"2e7d8c8b-bcd5-439f-9160-4672a5b31eef","width":"1/1"}],"id":"c691090b-4d0c-4577-9b63-82370bb627dc"}]
+
+----
+
+Description: 
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: cPgWbrFbkYk2oucv

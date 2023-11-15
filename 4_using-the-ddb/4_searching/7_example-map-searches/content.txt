@@ -1,0 +1,29 @@
+Title: Example map searches
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This section includes searches which return results to be viewed as maps.</p>"},"id":"c372ecbe-37b9-44dc-800b-fd98eb938f5f","isHidden":false,"type":"text"}],"id":"7db4f832-67de-4bc9-b2ac-60c1655a9c3a","width":"1/1"}],"id":"e18baf74-9a03-4846-b489-87cddac2b41e"}]
+
+----
+
+Description: A list of example map searches in the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: mXBRAgMvzII9pmGq

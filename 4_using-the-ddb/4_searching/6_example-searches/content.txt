@@ -1,0 +1,29 @@
+Title: Example searches
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This section provides a series of example searches.</p>"},"id":"2214f9d9-bb04-4fd5-9998-cffad072cb58","isHidden":false,"type":"text"}],"id":"0f7036d0-b6c1-4911-aad8-49450f5884e3","width":"1/1"}],"id":"6986b744-1eec-4a2b-b0a4-f5077c8dbde6"}]
+
+----
+
+Description: A list of example searches in the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: 6f8WOtD2TJGNrHjs

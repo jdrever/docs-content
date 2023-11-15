@@ -1,0 +1,21 @@
+Title: Points to be aware of with the taxononic name
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In general, adding missing hybrid 'x' markers is safe to do. The only possible exception is Salix fragilis (Crack willows) which, due to taxonomic changes, might refer to S. x fragilis or occasionally to S. euxina. References to non-hybrid \"S. fragilis\" are probably best treated as S. fragilis s.l.</p><p>The matching of the Narcissus and Taraxacum aggregates reflect differing conventions when recording at genus level. In the DDb there is an implicit assumption that a genus level record covers all the constituent species, whereas the recorder in this case is emphasising that point by appending 'agg' - so the name matching is fine.</p><p>For Taraxacum, an erroneous way of recording this, which you will sometimes encounter, is to use Taraxacum officinale. That reflects a historical misconception that the name covered all dandelions. It's a misuse because T. officinale s.s. is a Scandinavian species that does not occur in Britain. Such records should be treated as Taraxacum (at genus level).</p><p>There are rare cases where the DDb has genus-level aggregates that reflect taxonomic changes that cause the genus to potentially cover more than one group. E.g. Vicia s.l. which includes Vicia s.s. and also Ervilia and Ervum. You can check how a particular taxon concept is defined by looking at the 'subdivisions' tab of the entry, e.g.<a href=\"https://database.bsbi.org/object.php?objectid=2cd4p9h.vxpp8e&amp;class=TaxonInstance\"> </a><u><a href=\"https://database.bsbi.org/object.php?objectid=2cd4p9h.vxpp8e&amp;class=TaxonInstance\" title=\"Example of taxon definition\">https://database.bsbi.org/object.php?objectid=2cd4p9h.vxpp8e&amp;class=TaxonInstance</a></u></p><p>If you are importing recent records from presumably competent recorders who will be familiar with current taxonomic usage, it's generally safe to ignore warnings of \"matched against ddb s.s. name\" because that will usually be what the recorder intended. One of the few exceptions might be records of Ivy from Ireland recorded as Hedera helix (which is the common British species) whereas in Ireland it's likely to be Hedera hibernica (Atlantic Ivy). Records of H. helix from Ireland should probably be changed to H. helix s.l. (which includes hibernica). True helix records from Ireland are sufficiently rare that they would likely be recorded as H. helix subsp. helix.</p><p>Where there is a note of uncertainty in the taxon name, e.g. ‘Salix ?purpurea’,  it may be best to add a new 'Determination notes' column to the spreadsheet if one doesn't exist and add \"Salix ?purpurea\" as a det-note for that row, then remove the ? from the taxon name, so that it can be interpreted. That way the sense of uncertainty isn't lost from the record.</p><p>If you cannot match the full taxon name, you can use the taxon search in the DDb to see if there are any potential matches against part of the name, e.g. <u><a href=\"https://database.bsbi.org/search.php#retrievesaved=0.w9h6v&amp;query=76feb4cad18399a63820d13367cc8441\" title=\"Example of taxon search\">https://database.bsbi.org/search.php#retrievesaved=0.w9h6v&amp;query=76feb4cad18399a63820d13367cc8441</a></u></p>"},"id":"9c9d5506-2091-43bc-9577-b81ae1941bfe","isHidden":false,"type":"text"}],"id":"267c059c-ea2d-486b-86ac-e07f6f0eb3a5","width":"1/1"}],"id":"9ed01016-23e4-4168-afa2-a1aa187f79de"}]
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Related: 
+
+----
+
+Uuid: qKoXUD7oOEbXlcVT

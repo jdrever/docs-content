@@ -1,0 +1,29 @@
+Title: How to make a record
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>A record should include the four “<em>W'</em>s”: <strong>what</strong>, <strong>where</strong>, <strong>who</strong> and <strong>when</strong>:</p>"},"id":"40a53bb8-33db-4b3f-ac7b-6eaa4f86007a","isHidden":false,"type":"text"},{"content":{"rows":[{"term":"What","description":"The name of the plant. Botanists use scientific names (made up of a genus and a specific name) so Meadow Buttercup is Ranunculus acris (scientific names are always italicised with the first letter of the genus, e.g. Ranunculus, in capitals). Common names are less precise and can lead to confusion if the recorder is not aware that there are (link: http://bsbipublicity.blogspot.com/2016/06/wildflower-of-month-buttercups.html text: many different species of buttercup). Some common names are just downright confusing: Bermuda buttercup doesn't originate from Bermuda and it isn't a buttercup! But if you know your buttercup is a meadow buttercup, (link: https://plantatlas2020.org/ text: the Online Atlas) will tell you the scientific name."},{"term":"Where","description":"records should include a site  name (usually the nearest named place on a map) and a precise grid-reference. BSBI conducts surveys based around the Ordnance Survey map grid-squares. An OS grid-reference consists of 100 x 100 km square code expressed as two letters (e.g. TL) followed by a pair of co-ordinates (eastings and northings). The number of digits determines the precision of the grid-reference. For plant records you should normally provide at least a four-figure reference (e.g. TL1979), which specifies a 1km square. It can be useful to provide greater precision, particularly for reports of rare or unusual plants that we may want to check. The OS provides a useful web page explaining (link: https://www.ordnancesurvey.co.uk/blog/2015/11/map-reading-skills-how-to-read-a-grid-reference/ text: how to make a grid reference). You could also use a GPS unit or an app on your phone to do all this for you."},{"term":"Who","description":"That is you, the recorder! Or someone else if they have relayed the information to you. The name of the recorder is an important and permanent part of a botanical record."},{"term":"When","description":"The date on which you made the record. This is a vital piece of information as it allows us to track changes over time."}]},"id":"47946b19-3ae8-4c7a-bdb0-10ba29f48dc0","isHidden":false,"type":"description-list"},{"content":{"text":"<p>These are the minimum details we require but you can also add other information which might include the habitat, the number of plants present, whether it was flowering or not and whether you think it is truly wild or maybe it escaped from a nearby garden.</p><p>An example of a good record would be:</p><p></p>"},"id":"a4bb7f27-c98c-44d0-ab20-bc033140a69e","isHidden":false,"type":"text"},{"content":{"rows":[{"term":"What","description":"Creeping buttercup Ranunculus repens"},{"term":"Where","description":"Monks Wood National Nature Reserve, Huntingdonshire. Grid reference TL195794."},{"term":"Who","description":"Recorded by Jane Bloggs"},{"term":"When","description":"9th April, 2023."},{"term":"Additional information","description":"Several plants flowering on the edge of a path through the woods."}]},"id":"63b2750c-a5ec-4595-9a6c-0f3d20b7305f","isHidden":false,"type":"description-list"}],"id":"96e7622d-4fdd-43a0-8635-34aa714f9e6d","width":"1/1"}],"id":"725abe6c-b8be-4013-81b5-1816c827129a"}]
+
+----
+
+Description: How to use the four Ws (what, where, who and when) to create a botanical record
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: LS5oM5KN5TerkQuu

@@ -1,0 +1,25 @@
+Title: Using the DDb
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The <a href=\"https://database.bsbi.org/\" title=\"The BSBI distribution database (DDb)\">distribution database (DDb)</a> is maintained by the Botanical Society of Britain and Ireland, to store and make accessible the ever-growing pool of biological records collected or collated by the society.  </p><p>The DDb, which holds over 50 million records, provides vice-county recorders, research workers, Agencies and NGOs with on-line access to large, detailed data sets and, where appropriate, allows data to be edited to correct mistakes or to add annotations.  </p><p>The DDb provides access for everyone to <a href=\"/@/page/OMjAF6xDZigrDkEF\">distribution maps</a> and a range of <a href=\"/@/page/DWvNE4NwA5gUd8oD\">tools</a> for checking and formatting records.  </p>"},"id":"2d13956c-93d3-4c92-a38e-a0d4f8990b44","isHidden":false,"type":"text"},{"content":{"notecontent":"(link: page://5eyA3yPeMNTRGuQ5 text: Find out more about accessing BSBI data and the DDb.)"},"id":"803333de-770b-41dc-ac40-ee6e963fb382","isHidden":false,"type":"note"}],"id":"17d7a52e-7256-44d4-a7d4-5f9e8972ce19","width":"1/1"}],"id":"abd35d6d-b610-4935-97f9-c2a91cf02093"}]
+
+----
+
+Credits: With thanks to  Andy Amphlett, whose work on the original DDb manual has served as the basis for this guide.
+
+----
+
+Description: Introduction to using the DDb
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Uuid: kiPyCy7b4VKnIG2G

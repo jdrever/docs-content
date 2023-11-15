@@ -1,0 +1,29 @@
+Title: Spreadsheets to assist with importing data
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The following spreadsheets (.xlsx format) were created by Andy Amphlett to assist in importing data to Mapmate:</p>"},"id":"2aa53c49-18ad-4048-a796-dbc9126ff632","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><a href=\"https://bsbi.org/MapMate_codes_-Import_GB_2016.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">BRC codes sheet (GB)</a></li><li><a href=\"https://bsbi.org/MapMate_codes_-Import_Ireland_2016.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">BRC codes sheet (Ireland)</a></li><li><a href=\"https://bsbi.org/MapMate_names_Import_GB_2016.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Species names sheet (GB)</a></li><li><a href=\"https://bsbi.org/MapMate_names_Import_Ireland_2016.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Species names sheet (Ireland)</a></li></ul>"},"id":"9a9b46d9-0cb2-41be-a71d-7c9e77827a13","isHidden":false,"type":"list"},{"content":{"text":"<p>The DDb has a more extensive list of codes at <a href=\"https://database.bsbi.org/object.php?objectid=2cd4p9h.c4e9ey&amp;class=ChecklistInstance\">https://database.bsbi.org/object.php?objectid=2cd4p9h.c4e9ey&amp;class=ChecklistInstance</a></p>"},"id":"2d041ba6-29a6-4867-a621-71bf13c066b2","isHidden":false,"type":"text"}],"id":"5280e4a8-f353-483c-8499-5191bf14fcc0","width":"1/1"}],"id":"0f858cb9-6ff3-40d7-8a99-2208dbc577fa"}]
+
+----
+
+Description: Spreadsheets with BRC codes and Species names sheets to assist in importing data to MapMate
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: 3IOyjy0E6Jrr5tUG

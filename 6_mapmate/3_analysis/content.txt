@@ -1,0 +1,29 @@
+Title: Analysis
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"notecontent":"See also chapter 4, Appendix A and Appendix B in the (link: page://fzx5iJ0mmOfdbUp5 text: BSBI MapMate Book)."},"id":"d71e9727-8cf2-4aa4-a445-6f75c3a2e1ae","isHidden":false,"type":"note"},{"content":{"level":"h2","text":"<p><strong>Standard queries that come with MapMate</strong></p>"},"id":"c412c7bf-b2b4-462f-9f0c-50614fecc725","isHidden":false,"type":"heading"},{"content":{"text":"<p>One of MapMate's strengths is the range of analysis queries that it is possible to run on your data. The first four videos cover aspects of analysis using the standard MapMate queries.</p>"},"id":"2aa706d7-0203-4a37-9318-7c4d16763945","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"The browse list control buttons"},"id":"f5749542-820c-4b66-9329-77155ea50a04","isHidden":false,"type":"heading"},{"content":{"text":"<p>Every time you run a query in MapMate the results are presented in a 'browse list' (looking rather like a spreadsheet). Each browse list has a standard set of controls at the top.</p>"},"id":"d47d89c9-e609-4198-9987-43a680bf8a3a","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/AGh6Ob9-txg","caption":"Using the browse list controls video"},"id":"27e5154a-ac5a-4a89-bf85-4efc47463196","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Using the data entry window to filter your data and run queries"},"id":"6c43624c-17b8-478b-98af-f27f111e76df","isHidden":false,"type":"heading"},{"content":{"text":"<p>It's possible to do lots of data analysis from the data entry window, quite apart from MapMate's specific Analysis section.</p>"},"id":"6b1c6b2e-2fa4-4b1c-bef7-8f2b329b2c0c","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/f2fmP01LQwc","caption":"Querying from the data entry window video"},"id":"7bc70434-54bf-4c32-8ffd-b193e45c824d","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Using the \"F9 Custom Query\" from the data entry window to design your own query"},"id":"e19f0789-72df-4076-b7a4-1d56fb0e2d9e","isHidden":false,"type":"heading"},{"content":{"url":"https://youtu.be/8Kd-3V2Bk0c","caption":"Using the F9 Custom Query video"},"id":"9817369e-216b-4281-928c-b301f0f6a1f3","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Using wildcards"},"id":"668a2b2a-47f8-4f0d-ae0c-27eb5f2abd45","isHidden":false,"type":"heading"},{"content":{"text":"<p>Using \"wildcards\" to group together data for recorders or sites that have similar names, in the Analysis section of MapMate.</p>"},"id":"626cff64-89f5-4133-82e0-cc315746b39e","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/iiN7rjLXQxE","caption":"Using wildcards for querying data"},"id":"35a4e496-f0e9-4007-9b88-e0072cfca18c","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"<p><strong>Adding a custom query to MapMate</strong></p>"},"id":"08776e76-a0b2-40e7-a441-823617aa5f1a","isHidden":false,"type":"heading"},{"content":{"text":"<p>If you need an analysis query that does something different to the standard ones that MapMate supplies, you'll need to add a Custom user query, covered in the fifth video on this page:</p>"},"id":"141b1625-7b98-4233-ba22-19d17c6c7530","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/o6BgQen3AwI","caption":"Adding custom user queries to MapMate video"},"id":"6852e82b-78d8-4d04-b410-c364a20b5853","isHidden":false,"type":"video"},{"content":{"text":"<p>Some examples of BSBI queries that you can copy and past into your MapMate database are provided on the <a href=\"/@/page/dx2AoZaLBFMcHEi4\">custom queries page</a> of this website.</p><p>Appendix B of the <a href=\"https://mapmate.bsbi.org.uk/home/handbook\">BSBI MapMate Book</a> contains a further range of custom queries.</p>"},"id":"fd696fa6-c50e-431f-922c-44804c6feaa5","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<p><strong>Writing your own custom queries</strong></p>"},"id":"7684e5cd-4190-4d93-8134-41c1d5461556","isHidden":false,"type":"heading"},{"content":{"text":"<p>See the <a href=\"/@/page/fzx5iJ0mmOfdbUp5\">BSBI MapMate Book</a> for details of the MapMate data model (Appendix A) and examples of useful queries (Appendix B).</p>"},"id":"cfd8afae-651c-4b28-a8b9-d3c32a1282f4","isHidden":false,"type":"text"}],"id":"0ed469d2-b452-43eb-bba2-d0d129e4363d","width":"1/1"}],"id":"4e242662-f0a6-489a-ac73-92f7865e47c2"}]
+
+----
+
+Description: Description of processes for analysis  in MapMate, including standard and custom queries
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: DRmSY0XmpR4xtiVV

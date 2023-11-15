@@ -1,0 +1,29 @@
+Title: Search history and stored queries
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Search history"},"id":"7ccb8bcd-3580-4493-84dd-5f42e0bb1da4","isHidden":false,"type":"heading"},{"content":{"text":"<p>You do not have to wait for queries to run - results can be retrieved via <strong>search history</strong>.  Therefore a sequence of individual queries can be created and run, retrieving results later.</p><p>Search History is available from the top menu.  The page will list all searches you have made.  You can see whether the query is <strong>complete</strong>, view the <strong>number of results</strong>, and click the <strong>show results link</strong> to bring up the results table for that query.</p>"},"id":"eb9ca8c5-084f-4e34-8930-94105e2a1dcd","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://eMRtOqznbiGgIJhf"],"src":"","alt":"screenshot of the search history screen","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"85e97a63-a687-4b70-a48f-ae5217a6284d","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Stored queries"},"id":"f9f0bb9a-d665-4fd3-8f84-003f12703bfb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Queries are saved in the <strong>Stored queries</strong> tab.</p>"},"id":"60c888ed-4d53-4c23-8949-a9ed1d633ea7","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://bRUBBQdynjl4MGYn"],"src":"","alt":"screenshot of the stored queries tab","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"2c929a3a-bc47-4efe-9f68-8943eb1b32de","isHidden":false,"type":"image"},{"content":{"text":"<p>You can add queries to your <strong>Stored queries</strong> tab by saving them from the Search screen.  To do this, click on the <strong>Save query</strong> button.</p>"},"id":"cbeb647f-10af-4210-b99f-71b06d788f5e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://EilHxYZu835REbNw"],"src":"","alt":"screenshot of save query button","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"583e3ebf-b57a-4298-9fc7-759df09d7653","isHidden":false,"type":"image"}],"id":"5044e3ad-16ec-4918-bf34-5a9cc68236f9","width":"1/1"}],"id":"cd55dffc-bc56-464c-a53b-e2ed86840d1f"}]
+
+----
+
+Description: How to use the search history and stored queries in the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: ajWg1UQfvUeXpgLp

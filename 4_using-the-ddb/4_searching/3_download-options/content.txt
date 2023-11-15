@@ -1,0 +1,29 @@
+Title: Download options
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>There are two ways to download your results.  If you want to download a tabular file (e.g. a spreadsheet or CSV format) you can click on </p><p></p><p>The <strong>Download </strong>tab is to the right of the results table.  It provides a comprehensive list of options for downloading your query results.</p>"},"id":"9cf4560a-5500-4af8-b1b1-e399ab33a623","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://KyxWk1ul8dQKe5sr"],"src":"","alt":"screenshot showing the download tab","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"200","iscentred":"true"},"id":"9704adae-2b63-44f2-9e31-61dfff0ec4c1","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Tabular data"},"id":"d99f5083-9018-4d4a-a324-1762fc9e4f4f","isHidden":false,"type":"heading"},{"content":{"text":"<p>The <strong>Tabular data</strong> panel allows for the addition of columns to your download file.  You can also select the type of file you want to download (<strong>csv format</strong>, <strong>Excel spreadsheet</strong>, <strong>OpenDocument spreadsheet</strong> and <strong>export in NBN Darwin Core format</strong>.). In each case, you can choose whether to download the file or receive it by email.  </p>"},"id":"eaa6ada3-61d3-4784-aa92-0626c2528eee","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://PACaCogF5v86ev6d"],"src":"","alt":"screenshot showing options for tabular data","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"60c035e1-46fd-4547-8611-b7231dc7f90d","isHidden":false,"type":"image"},{"content":{"notecontent":"For large result sets (greater than 30000 records), the email options are strongly recommended.  CSV format report are usually generated more quickly than Excel files, and be opened/manipulated in Excel."},"id":"ce3be954-cb7d-4f3d-ae21-903aa83c0f5d","isHidden":false,"type":"note"},{"content":{"level":"h2","text":"Mapmate"},"id":"76114476-6d91-4386-8a5b-d1df3072ea3c","isHidden":false,"type":"heading"},{"content":{"text":"<p>The <strong>Mapmate</strong> panel provides a route to download files to Mapmate.</p>"},"id":"c0fac1cc-6ad3-4ac8-b849-c821f29b351c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://DaDpEW4gqVpCgUsT"],"src":"","alt":"screenshot of Mapmate panel","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"429e6ab1-c51a-43f5-b641-375670868b79","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"DMap"},"id":"8c22e3a0-6070-43ec-aa71-158b4be4ce23","isHidden":false,"type":"heading"},{"content":{"text":"<p>The <strong>Dmap</strong> panel provides a route to download files to <a href=\"https://www.dmap.co.uk/\" title=\"DMap website\">DMap</a></p>"},"id":"d046e43e-4cb9-4737-9fae-bb91dc4a0f81","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://NEjkyOVv8T5x9HvS"],"src":"","alt":"screenshot of Dmap panel","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"c3d33d27-5bc9-46a8-8462-7c850478b49b","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"GIS formats"},"id":"1d3dff0c-297b-43bd-a2de-1c7be054dbde","isHidden":false,"type":"heading"},{"content":{"text":"<p>The <strong>GIS formats</strong> panel provides a set of options for download files for use with GIS systems.</p>"},"id":"098d6f44-5ffc-454b-9485-b5c7d75b6db1","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://CHu6kfOXXmcQ3vjE"],"src":"","alt":"screenshot of GIS formats panel","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"2efdde41-af67-4804-8ead-1eaa46f9062d","isHidden":false,"type":"image"}],"id":"3cf3e0a0-4d1e-4b1e-8141-2b973279c609","width":"1/1"}],"id":"df9eec01-aee7-498a-8ad9-2d86fd11f85e"}]
+
+----
+
+Description: Summary of options for downloading records from the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: I0WViSuItjgX5b70

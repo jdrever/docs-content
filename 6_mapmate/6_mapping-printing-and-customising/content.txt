@@ -1,0 +1,29 @@
+Title: Mapping: printing and customising
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"notecontent":"See the previous (link: page://QCEwepDMsDY2L2QQ text: Mapping: creating and editing page) for more information on mapping."},"id":"9b8c27c2-f294-4851-9b87-aa3a6f99de2a","isHidden":false,"type":"note"},{"content":{"text":"<ul><li>Adding hydrology features to maps.<ul><li>Adding contour features to maps.</li><li>Using graphics as backdrops for 'picture maps'.</li><li>Mapping species richness at 2km square level.</li><li>Species richness for 2km squares using colours to show number of species.</li><li>Species richness at 1km square level.</li></ul></li></ul>"},"id":"1eaebcf6-7de0-4317-a31f-4366aa3127f9","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"Printing your maps"},"id":"81f3c45c-d46e-4d09-ac98-0d5e16c1cbc1","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=5NQk_FAnxQw","caption":"Printing your maps video"},"id":"767dc15f-6a9d-458f-be40-d21c9fc1a616","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"<p>Adding hydrology features to maps</p>"},"id":"83790c80-31ca-4869-b19c-d90cb12d748a","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=0nE9K_pEFxI","caption":"Adding hydrology features to maps video"},"id":"c6433aad-1ed1-4b94-b3f1-3a735f44372d","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Adding contour features to maps"},"id":"ba1301a6-9f7f-4730-a344-f5bbbc51d427","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=c8rhbSwQ2jY","caption":"Adding contour features to maps video"},"id":"c448a3d7-9b78-405e-98b8-8662193c6d0b","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Using graphics as backdrops for 'picture maps'"},"id":"4f4779f5-5db8-4a49-81d8-26ef95c94e7c","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=chBlLLQMaB4","caption":"Setting up picture maps video"},"id":"9605a2d3-8ba0-47ae-8d67-9c85a0baf3de","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"<p>Mapping species richness at 2km square level</p>"},"id":"c8d9ae8d-0ff0-49a3-906c-2192fbf4f6b6","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=zBpi0v2ATtw","caption":"Mapping species richness for 2km squares video"},"id":"f726108c-67e9-4ee3-b5d2-8dac5eca118c","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"<p>Species richness for 2km squares using colours to show number of species</p>"},"id":"28091bbb-bbd4-46a4-9450-9165ca7a05f2","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=GtpVcQoHNcI","caption":"Mapping species richness for 2km squares with number of species video"},"id":"fa15596f-fd98-48b8-a0a2-a0672d5e937a","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"<p>Species richness at 1km square level</p>"},"id":"d7867c19-b667-4f95-968a-ce4eb7d1beb5","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=2bo105c-1PM","caption":"Mapping species richness for 1km squares video"},"id":"dcc3725c-1e6f-4f29-82a0-f6efca8c9562","isHidden":false,"type":"video"},{"content":{"text":"<p><br></p>"},"id":"61f85109-df8a-4176-bc23-0ba7c79eda22","isHidden":false,"type":"text"}],"id":"5efffe6c-040f-4e49-9899-10d594468d88","width":"1/1"}],"id":"a1f421a1-585b-4433-8f7f-8b2eb1bcc713"}]
+
+----
+
+Description: An overview of the printing and customisation of maps in MapMate
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: B3vRgnDJDMPjmdui

@@ -1,0 +1,29 @@
+Title: Searching for taxa
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>To search for taxa, you use the search form as normal, but change the <strong>search for </strong>pull down to <strong>Taxa</strong>.</p>"},"id":"d7278db3-23af-433f-b8f3-b4a3aabf26ee","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://L0N9me3sDmaVCff9"],"src":"","alt":"Taxon search form","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"e548cffd-64a2-40a9-9273-ef783e6b9f52","isHidden":false,"type":"image"},{"content":{"text":"<p>From here you will be able to search for taxa by genus, species, subspecies and authority.  For example, we can search for taxa in the genus  Sambucus using a query like the one below.</p>"},"id":"96fd176a-f67e-48b0-ac1c-d1be5cece13b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://ogb5PNDX5HiGJfbc"],"src":"","alt":"search for taxa in the genus Sambucus","caption":"search for taxa in the genus Sambucus: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.k25a2&query=db282055af668d64ab6fb98b95f165d8","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"43a03608-9900-4079-91d5-b682a2788a22","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Searching for native species"},"id":"0d7608bf-166a-4f8d-aace-0ad810325f43","isHidden":false,"type":"heading"},{"content":{"text":"<p>A slightly more complicated example is to search for all native species found in Great Britain.  For this query, we use the <strong>more options </strong>button to bring up some additional criteria. </p>"},"id":"2c93177a-cfb1-406f-9c73-17f509ec2602","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Set <strong>attributes &gt; synonym state </strong>to <strong>accepted name (not a synonym)</strong> - to exclude non-accepted names</li><li>Set <strong>attributes &gt; taxon rank</strong> to <strong>species</strong> and <strong>this rank</strong> - to only include species</li><li>Set <strong>attributes &gt; status (external scheme) </strong>to <strong>native </strong>and <strong>National status (GB)</strong> - to include species native in Great Britain</li></ul>"},"id":"753bf6b8-d58d-4506-8684-065b5e8eef25","isHidden":false,"type":"list"},{"content":{"location":"kirby","image":["file://jRxMNG5pnvvYSXVz"],"src":"","alt":"search for all native speices found in Great Britain","caption":"search for all native speices found in Great Britain: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.k1qxk&query=68b3237e978492b9edca4dad01e26c72","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"829c3b49-11d6-416e-8ef1-62a0e7a8e00a","isHidden":false,"type":"image"}],"id":"1d09feb0-7150-44aa-a4f3-aaec493c8722","width":"1/1"}],"id":"0fdf7bfe-cf5e-40d8-9fba-8c0dcebabc11"}]
+
+----
+
+Description: Searching for taxa, including example searches for taxa in a genus and species native to Great Britain.
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: Sasg9aFqPjhny1qd

@@ -1,0 +1,29 @@
+Title: A list of all taxa in a vice-county with the number of tetrads with records since a specified year
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>To count the number of tetrads for each taxon, you add a ‘distinct’ clause to the grouped query.  In the example below, the number of tetrads for each taxon within Kent (vice-counties 15 and 16) since 1987 is listed.  </p>"},"id":"6a3970c2-533b-479a-a5de-f2e0f16653fc","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://g8r5gFmMlSrWW5Cx"],"src":"","alt":"screenshot of records in vice county Kent, grouped by taxon name, counting distinct tetrads, recorded since 1987","caption":"records in vice county Kent, grouped by taxon name, counting distinct tetrads, recorded since 1987: click to see query in DDb (login required)","link":"https://database.bsbi.org/search.php#query=c51845694beadd8f15c22b6684daf72a","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"399650e8-cae6-4173-b44d-08238162a81d","isHidden":false,"type":"image"},{"content":{"notecontent":"Monad can be substituted instead of tetrad within the ‘distinct’ clause."},"id":"8b693a56-2317-46cb-94c3-c65a9816ef8e","isHidden":false,"type":"note"}],"id":"2ac8bb82-69a7-4a85-af32-6e23650ae623","width":"1/1"}],"id":"6be4a5fd-942c-439b-8e40-c38ccadf0cc5"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: mnrwkMDN8J8hArCx

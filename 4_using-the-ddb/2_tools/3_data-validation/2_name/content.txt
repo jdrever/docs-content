@@ -1,0 +1,29 @@
+Title: Name formatting
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The Name formatting validation is accessible through the top menu (Tools &gt; Data Validation &gt; Name formatting (people and organisations) or direct at <a href=\"https://database.bsbi.org/partynameparser.php\">https://database.bsbi.org/partynameparser.php</a></p><p>This tool attempts to apply standard formatting (e.g. Surname, Forename or Surname, A.; Other, A.N.) to a list of names of people or organisations. Names which cannot be parsed are indicated and should be reformatted manually. The DDb attempts to split strings of multiple recorders into individual entries but the process fails if punctuation is used inconsistently. </p><p>By entering a MapMate CUK rather than uploading an external file, the tool can test existing names, created in that copy of MapMate, and for which records are held on the DDb.</p>"},"id":"ab557439-ee10-4b19-8e80-9f8b6be93581","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://AaGTV94S9lFTcmLL"],"src":"","alt":"screenshot of Name formatting screen","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"09e05a35-026a-4b55-865d-ee295421d56c","isHidden":false,"type":"image"},{"content":{"text":"<p>This will highlight any names that the DDb can't split up correctly and is a simple way to check for and amend names in MapMate, so that when MapMate is next re-synced with the DDb the recorder names can be re-evaluated. </p><p>'Failed' names still appear in the DDb, but the problem is that the system can't tell if they are people or organizations (or a combination of both) so sorting, searching and formatting of the entries works less well.</p>"},"id":"a94e830b-dde0-4cd0-a860-6f68ea62cc47","isHidden":false,"type":"text"}],"id":"cbffe3eb-8a90-48e1-8ddf-729d481dbe6d","width":"1/1"}],"id":"8d0de66d-7fc0-4aef-9949-acc26ff30f13"}]
+
+----
+
+Description: Explanation of the recorder name formatting validation process in the DDb
+
+----
+
+Audiences: Recorders, Vice County Recorders
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: 6UUbsxYpZYKjEZ0B

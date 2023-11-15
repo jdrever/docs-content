@@ -1,0 +1,29 @@
+Title: A species list for a hectad listing most recent year each taxon has been recorded
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>To create this query, enter the hectad into the <strong>grid reference</strong> field, add a group by in <strong>more options &gt; grouping </strong>and choose <strong>taxon &gt; taxon name.  </strong>Then add the <strong>latest date</strong> option available as a <strong>subdivide</strong> clause, found by clicking on <strong>more options &gt; grouping</strong>.</p><p>Hectad SW84 in Cornwall has a huge number of records on the DDb. This query returns latest year for 1602 taxa. </p>"},"id":"41a3cce5-8beb-460b-b5bd-dbda41306435","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://kgoTlLN0aAGDfrp7"],"src":"","alt":"screenshot of search for taxon names in hectad, subdivided by most recent year","caption":"search for taxon names in hectad, subdivided by most recent year: click to see query in DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wny7f&query=412653ff50537f338771d5d1ad687948","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"83019912-2cf1-4e79-8572-86a4bdf74950","isHidden":false,"type":"image"},{"content":{"text":"<p>Changing ‘latest date’ to ‘date range (min/max date)’ shows the earliest and most recent dates. </p>"},"id":"dddf7550-48c4-4bec-abe3-bb4581c833a9","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://p0lzGHzoZIgLYbWB"],"src":"","alt":"screenshot of search for taxon names in hectad, subdivided by earliest/latest date","caption":"search for taxon names in hectad, subdivided by earliest/latest date: click to see query in DDb (requires login)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wny7y&query=624dd6a2bc1c489cf1be895093bcaeb3","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"13fe2c3f-8623-4468-adaf-2911979fd713","isHidden":false,"type":"image"},{"content":{"notecontent":"In some cases, the records have vague date ranges, eg. ‘before 1987’, which has an end year but not a start (minimum) year - so the earliest date shows as a blank.  You can see this is you click on the **earliest date** column header to sort the records by that field."},"id":"a856337c-0520-4b8b-8758-02e841dd7d35","isHidden":false,"type":"note"}],"id":"5e8d8dc4-fe95-4afc-8edf-f46b05cd387e","width":"1/1"}],"id":"246dd5a2-1cfb-4acc-a880-f1f98335fe86"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: qUBYkB5Wcjj8vwro

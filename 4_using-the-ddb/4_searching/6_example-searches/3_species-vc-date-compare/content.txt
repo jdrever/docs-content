@@ -1,0 +1,29 @@
+Title: A species list for a vice-county comparing post 2000 to pre 2000
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Since 2000, BSBI date classes are decadal, while Atlas 2020 uses the 20 year period 2000-2019 as its current date class.  The DDb provides an option within the <strong>subdivide by</strong> drop down list to split records before 2000 and since 2000.  If we follow the instructions for creating a species list for a vice county subdivided by dates, all we need to do is amend the <strong>subdivide by date class</strong> field to be <strong>pre/post 2000.</strong> </p>"},"id":"157d1c8e-6602-495b-8da7-fa19516fdf8d","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://LLsmQHox6Hcd3Qeq"],"src":"","alt":"screenshot of vice county search grouped by taxon name and sub-divided by pre 2000/2000","caption":"vice county search grouped by taxon name and sub-divided by pre 2000/2000- click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wny33&query=d444e540d2ea880645fe066df55f82bf","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"4732d3f7-f7ed-4798-9a9d-df6728fa65de","isHidden":false,"type":"image"},{"content":{"text":"<p>So in the example above, based on West Mayo, Abies grandis has been recorded in 2 hectads, 1 hectad pre 2000 and 1 hectad post 2000. </p>"},"id":"7190c478-9d9e-4a35-8573-0e0549da637b","isHidden":false,"type":"text"}],"id":"2ebb6247-ba3f-4050-bfe1-d91012363f8b","width":"1/1"}],"id":"3f96bcda-ba77-46db-9d5d-214d72882f58"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: Z7KH0BgWXoH2kDVH

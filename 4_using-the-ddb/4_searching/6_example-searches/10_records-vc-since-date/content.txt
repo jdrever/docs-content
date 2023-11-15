@@ -1,0 +1,29 @@
+Title: A list of all records for a vice-county added to the DDb since a date
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>It is useful to be aware of what records are being added to the DDb, not all of which may have come via the VCR's copy of MapMate.  </p><p>This query finds all records 'created' (ie newly added to the DDb) since 1st January 2020 in Moray (vc95).</p><p>To do this, use <strong>more options &gt; admin &gt; creation or update stamp, </strong>and use the <strong>created</strong> option.</p>"},"id":"ec240001-1cc9-4688-88e6-f19835351f97","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://n8aP9L3Tqkpc47Gv"],"src":"","alt":"screenshot of all records added to the DDb since 1st January 2000 for VC95","caption":"screenshot of all records added to the DDb since 1st January 2000 for VC95: click to see in DDb (requires login)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wycdc&query=7e26ff09e431f6b6600f689b87da6775","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"4f761185-c30c-4fd2-a856-fcf5d46a914c","isHidden":false,"type":"image"}],"id":"8f080c0c-1a12-40d2-8199-55de403bc486","width":"1/1"}],"id":"a20a7bb8-5509-4973-ac01-64d36aa7a6d4"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Recorders, Vice County Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: 1NXqiKKBUL0P5ICM

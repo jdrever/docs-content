@@ -1,0 +1,29 @@
+Title: Finding the Taxon ID in the DDb
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>A taxon's ddb entity id is the code displayed in bold on taxon details pages.  If searching for a missing name use the taxon search form. </p><p>It is usually best to search by genus and then pick the match the search results, e.g. if looking up Poa annua, search for taxa (not records) by genus</p>"},"id":"aa2a0d11-5bd9-422d-bae6-790ff2f923cd","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://4ASaaQLoOtO8sr9v"],"src":"","alt":"searching for taxa by the genus Poa","caption":"searching for taxa by the genus Poa: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#query=d8a452607211db8dd16302596974d1f4","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"30a417e7-1eec-4b85-86ce-32f4ea1dc48f","isHidden":false,"type":"image"},{"content":{"text":"<p>Click <strong>display results</strong>, then click on Poa annua in the results page, to bring up the details</p>"},"id":"19820b7d-9bab-4b20-a099-51600004721d","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://gq1s2Dc1pnPsPfdL"],"src":"","alt":"details page for Poa annua","caption":"details page for Poa annua: click to see the page in the DDb (login required)","link":"https://database.bsbi.org/object.php?objectid=2cd4p9h.b5hrbh&class=TaxonInstance","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"d3fd9ef9-6046-4bbf-a0fc-c22e8b7ef9d9","isHidden":false,"type":"image"},{"content":{"text":"<p>The entity id code you need for that taxon is found in the <strong>ddb row id</strong> field: 2cd4p9h.xt1.  Please ignore the second part of the code '#2cd4p9h.b5hrbh'</p><p>If preparing data for upload, copy the taxon entity id into the <strong>'DDb matched name (id)'</strong> column.</p>"},"id":"9dba1ef1-b48c-4cd5-aafd-7c7080c5f8ff","isHidden":false,"type":"text"},{"content":{"notecontent":"As a shortcut, clicking on the entity id on an object details page will copy it to the clipboard.  Shift-clicking will copy the underlying numeric version of the id."},"id":"5037d7bf-2cc9-4aff-b03d-b072e9d564f9","isHidden":false,"type":"note"}],"id":"1e1c98cb-ddaf-463c-ada9-b1d40e675249","width":"1/1"}],"id":"c6f06ed7-7590-44b5-a249-092b52ecf6a7"}]
+
+----
+
+Description: Description of how to find the taxon ID in the DDb
+
+----
+
+Audiences: Vice County Recorders
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: uvh3aRPpJ358TQz6

@@ -1,0 +1,29 @@
+Title: Working with larger queries
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>While the DDb allows access to all plant records that the BSBI holds, there are some limits on the number of results that can be viewed or downloaded.  Up to 50,000 can be viewed in the on-line results table.  </p><p>Users without extra admin permissions can download or have e-mailed to them, up to 150,000 records in one go.  If you need to exceed these limits then please ask for assistance by email to <u><a href=\"mailto:tom.humphrey@bsbi.org\">tom.humphrey@bsbi.org</a></u>.  The only likely scenario for this would be a VCR wanting to work on a whole county data set, eg for a Flora, Checklist or Rare Plant Register.  The resultant very large files can be supplied via a file sharing website, eg. Dropbox or similar.</p>"},"id":"fb46e0c4-3cb9-44fa-a82a-bf651d8f1697","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Guidance for successful searches"},"id":"4cd808ab-64c0-48c5-98ba-44b7400426f2","isHidden":false,"type":"heading"},{"content":{"text":"<p>The following guidelines to help ensure that large searches work reliably (rather than failing due to web-browser time-outs or lack of memory) and that they don't negatively affect the running of the system.</p>"},"id":"d0c3e05b-e079-410c-acec-eada043fdc7c","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Consider if you can weed out data that you don't need before searching, e.g. you may need only recent records (rather than those dating back to 1700) or you may be able to exclude a large chunk of data that you already know about (e.g. records already in MapMate, or from a recent flora data set that you already have access to).</li><li>Use the 'Email search results' option, rather than downloading the results directly. This avoids problems with web browser time-outs and lets the server run your search task more efficiently. You can email results straight away without having to run the query first in the web browser (where the results will have been capped at 50,000 anyway).</li><li>If possible download large result sets as a csv (text) file rather than in Excel or Ods format. Delimited-text can still be easily loaded into a spreadsheet, but is a far simpler and quicker format to generate on the server.</li><li>Please avoid rerunning the same query multiple times. If you are unsure if your query has worked then, before restarting it, check in your search history, to see if your search is still running or if there is a previous result set waiting that you can retrieve quickly. If a slow query fails more than once then please seek assistance rather than retrying it - having failed once it will probably fail every time.</li><li>Consider whether your query can sensibly be broken up into smaller parts - but only within reason: splitting a slow query into a few parts (e.g. partitioning by county or date-class) is probably quick and worthwhile, whereas having to run it as many separate searches is a waste of time - in that case please seek advice about how best to run the search in one go).</li><li>If you don't need individual records, only a summary then it's usually quicker to search for the grouped summary directly rather than downloading a large record set and analysing it off-line in a spreadsheet.</li></ul>"},"id":"d15ca361-5395-405d-8a2e-8389c126bfa3","isHidden":false,"type":"list"},{"content":{"text":"<p>The first bullet point, above, is from a practical viewpoint perhaps the most important.  In many circumstances, it is much more useful to just view or download a subset of records, or a summary of them.  It is also quicker.  Searching for records of Adoxa moschatellina returns (as of September 2023) 42,976 records, the query taking 40 to 55 seconds.  That is a bit of a wait, and do you really want to wade through that many records to find the ones of interest to you?  Probably not.  </p><p>Restricting the search to a single vice-county (vc94) returns (as of September 2023) 220 records, and the query runs in about 2 seconds.  Restricting the query to vc94 and to records since 2000, currently returns 134 records, and the query runs in less than one second; so both much faster and easier to find the records of particular interest to you.  </p>"},"id":"b80b91ae-7b73-4e85-9058-4b0cefd59791","isHidden":false,"type":"text"},{"content":{"notecontent":"You don't have to wait for your queries to complete!  Results can be retrieved via (link: page://ajWg1UQfvUeXpgLp text: Search history)."},"id":"d7908586-26ae-429d-9f8c-5bd99a333014","isHidden":false,"type":"note"}],"id":"ded42a76-da94-42cc-8dec-049292cf9a5a","width":"1/1"}],"id":"ad0cb2e9-7575-47e4-a000-4fb077b2ba09"}]
+
+----
+
+Description: Guidance on working with larger and more complex queries in the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: Gl50BXkJcfupUcT9

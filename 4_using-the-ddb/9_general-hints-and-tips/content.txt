@@ -1,0 +1,29 @@
+Title: General hints and tips
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Pasting list of taxon, grid references and county search filter fields"},"id":"f9b48f04-44f7-4eac-975a-41ef35744b39","isHidden":false,"type":"heading"},{"content":{"text":"<p>As a general shortcut DDb taxon, gridref and county search filter fields usually allow direct pasting of lists. For taxa either taxon name or taxon id can be used, but matching of ids may sometimes be more robust.</p>"},"id":"9319e3c1-beb7-4531-8b32-463d4e7ca25f","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Creating a link for a query"},"id":"0394e56b-f3b9-479e-949c-34e4083d81e4","isHidden":false,"type":"heading"},{"content":{"text":"<p>An especially helpful feature is being able to email a link to a DDb query, or include it in a document.  This is done by clicking on ‘download’, right clicking on ‘this link’ (highlighted in yellow below), and selecting ‘copy link address’.  If the link doesn’t work, copy and paste into your browser window, and press return.</p>"},"id":"8e5e62e1-e54f-46bd-91b7-605096344503","isHidden":false,"type":"text"}],"id":"2791104a-0df3-42f8-95ee-9e8f3aa8fe83","width":"1/1"}],"id":"fad9ccc2-0f66-4341-b87b-a64923623b7c"}]
+
+----
+
+Description: A list of general hints and tips when using the DDb
+
+----
+
+Audiences: BSBI Members, Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: cxrz6FAzK71IxHKS

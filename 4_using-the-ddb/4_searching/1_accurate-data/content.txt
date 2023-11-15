@@ -1,0 +1,29 @@
+Title: Ensuring the accuracy of data
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>There are a couple of criteria that it is useful to your queries to ensure that you get the most accurate data possible.  In both cases, you'll need to use the <strong>more options</strong> button.</p>"},"id":"b9c9e3f6-4ccc-49be-8959-a74a35676ce1","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Filtering out duplicates"},"id":"9420675c-1fd4-4650-8e67-8be6a3455606","isHidden":false,"type":"heading"},{"content":{"text":"<p>To filter out duplicates, click on <strong>more options </strong>and then choose <strong>options &gt; Filter duplicates</strong></p>"},"id":"d97cb9c5-5339-4ff7-b43c-2147c8de9b8a","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://0rxaRTNNxBtDP79x"],"src":"","alt":"using more options to filter out duplicate records","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"f6d2ee2c-462d-4739-b4d5-d48e1826335e","isHidden":false,"type":"image"},{"content":{"text":"<p>Make sure filter out duplicates is selected</p>"},"id":"6bf68e67-a5e0-48f2-9e9b-25b77636ce9d","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://RbVOAMbFORVq4ARa"],"src":"","alt":"filter duplicates option with filter duplicates selected","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"8faa17a6-f761-4767-89d4-5b4a50ba9742","isHidden":false,"type":"image"},{"content":{"notecontent":"The filter duplicates options references duplicates and tagged duplicates. (link: page://cPgWbrFbkYk2oucv text: Find out the difference between duplicates and tagged duplicates.)"},"id":"e0a58b60-b331-424f-8724-1aa1002f76df","isHidden":false,"type":"note"},{"content":{"level":"h2","text":"Filtering for validated records"},"id":"cf319cb0-575d-4269-845e-5e280dd95ce5","isHidden":false,"type":"heading"},{"content":{"text":"<p>To filter for validated records, click on <strong>more options</strong> and choose <strong>validation &gt; validation state</strong>.</p>"},"id":"d8ceeb56-19cf-4586-84f3-9620c31f1b30","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://Gr2up5jkVa2zbIUZ"],"src":"","alt":"using more options to select validation state","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"2fa92a93-3a0f-4edd-9733-40a15b74c1b7","isHidden":false,"type":"image"},{"content":{"text":"<p>Select <strong>Accepted or unchecked</strong> from the dropdown.</p>"},"id":"34d45a17-39ce-4b4c-b2bb-8b4a73a8ccfc","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://LpEZ8Ta7NCmSuT6J"],"src":"","alt":"selecting Accepted or unchecked as the validation state","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"400","iscentred":"true"},"id":"2705ad7e-ab49-4236-b84c-bafaea80851f","isHidden":false,"type":"image"}],"id":"32680776-e635-4cfc-a818-7ba1f9eda533","width":"1/1"}],"id":"c74566d0-ee70-4427-9a65-9d5e114afc1d"}]
+
+----
+
+Description: Summary of criteria that it is useful to add to queries: filtering out duplicates and filtering for validated records
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: mPYHaNZru3fqeU7v

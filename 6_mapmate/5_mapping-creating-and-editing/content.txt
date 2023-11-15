@@ -1,0 +1,29 @@
+Title: Mapping: creating and editing
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"notecontent":"See also Chapter 7 in the (link: page://fzx5iJ0mmOfdbUp5 text: BSBI MapMate Book)."},"id":"41b22264-3cea-460f-b894-df8f237c32e4","isHidden":false,"type":"note"},{"content":{"text":"<p>Creating simple maps in MapMate is quick and easy to do. It is also possible to spend much longer on customising the maps for more complex displays. These screencast videos take you through the processes involved (scroll down to see all the videos on this page, and go to the <a href=\"https://mapmate.bsbi.org.uk/home/mapping2\" rel=\"noreferrer\">next page</a> for more).</p>"},"id":"f1f1d604-1828-4d83-9dd3-7d94848a1b93","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Creating a simple base map"},"id":"ff5a08e6-5e55-484d-a968-1f4895e057e4","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=KEPABGD87FA","caption":"Creating a simple base map video"},"id":"eeaf7607-0d9c-4b64-83bc-6c7386bbe7c8","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Creating a simple atlas map"},"id":"a16dd43d-2ef7-491c-8088-322a2abfcb7c","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=BYO0c7_gnvY","caption":"Creating a simple atlas map video"},"id":"470c5bbf-9fbd-478a-8ebf-e0003385ad81","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Creating a \"special map\" to show all recorded tetrads in a county"},"id":"428ad792-39c6-4030-a618-622852a1517e","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=tdrgwyrG_IA","caption":"Mapping all recorded tetrads video"},"id":"d8da1ab3-8476-4300-8270-2eb877de78db","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Creating a polygon base map"},"id":"5d244c42-595e-4ed7-8c0d-bd55fbafd1b0","isHidden":false,"type":"heading"},{"content":{"text":"<p>This allows better control of colours and shading - and also introduces some of the map editing controls.</p>"},"id":"ec972072-fabf-49f8-8bcc-f72f45f3fbb6","isHidden":false,"type":"text"},{"content":{"url":"https://youtube.com/watch?v=DlccyLjCt-w","caption":"Creating and editing a polygon base map video"},"id":"672be963-ad15-43e5-b416-059e8d8c7660","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Editing atlas maps"},"id":"de39726b-fc1c-4608-aee6-62ffbdb923ed","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"How to use the \"Feature Detail\" list, and adding a second base map."},"id":"553da4e2-cd6b-4ed7-a0a8-1794fa513371","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=7F_H9Jb70Jk","caption":"How to use the \"Feature Detail\" list, and adding a second base map video"},"id":"498c2c28-28a0-4da6-88b5-f3671b14aefb","isHidden":false,"type":"video"},{"content":{"level":"h3","text":"How to create a 'date-banded' map with text annotations."},"id":"d80772a2-99e8-4394-bbc3-98c17f52469c","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=Je3niZEoaYI","caption":"Date-banding and text annotations video"},"id":"f561583c-ade1-4dc5-badf-b63e1347f0b0","isHidden":false,"type":"video"},{"content":{"level":"h3","text":"Changing the date band time periods by editing the underlying SQL query"},"id":"2ca46931-41bd-40d6-bf3a-2833921def46","isHidden":false,"type":"heading"},{"content":{"url":"https://youtube.com/watch?v=SvjdXU3o1Yw","caption":"Changing date bands video"},"id":"131fcfaa-e159-46b7-ae28-5d49444868b8","isHidden":false,"type":"video"},{"content":{"notecontent":"For extra mapping practice see also Martin Harvey's (link: https://bsbi.org/wp-content/uploads/dlm_uploads/MapMate-mapping-worksheet.pdf text: mapping worksheet) (PDF)."},"id":"b9626495-ffa1-4d31-80ec-4b4461a0bee2","isHidden":false,"type":"note"}],"id":"1133ae05-3e78-4a11-a228-db193bdf7c51","width":"1/1"}],"id":"1042d46d-9c46-47ce-91af-8bdd2e22549c"}]
+
+----
+
+Description: An overview of the creation and editing of maps in MapMate
+
+----
+
+Audiences: Vice County Recorders, Recorders
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: QCEwepDMsDY2L2QQ

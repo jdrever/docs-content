@@ -1,0 +1,29 @@
+Title: A list of species with earliest and most recent year recorded
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In this query <strong>subdivide by date range</strong> adds columns for the earliest and latest year with records.  </p>"},"id":"491537a8-cf96-4cf1-9fbd-cd66b10ca6da","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://tbtylJTEgLKFpdDt"],"src":"","alt":"screenshot of search for records in region grouped by species, sub-divided by earliest/latest date","caption":"search for records in region grouped by species, sub-divided by earliest/latest date: click to see query in DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wny3n&query=6f3a15d6d3d8686335d8a40607c497bf","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"f819bb6e-34cb-415a-9f0c-2c7a04ce4fe2","isHidden":false,"type":"image"},{"content":{"notecontent":"This query uses the most recent year of any records with date range as the most recent year recorded.  This may be incorrect.  For the most recent year only, use 'subdivide by latest date' (see query below).  This uses the start year of any date ranges as the most recent year, and is the more conservative measure."},"id":"9d1596c1-2e65-44dc-8889-5e8a9a017ab0","isHidden":false,"type":"note"}],"id":"7772f48a-92b1-4257-8c53-953352444461","width":"1/1"}],"id":"80e4e07b-529c-4173-8828-ce28f2e4ea05"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: Vice County Recorders, Recorders, External Agencies/Consultants
+
+----
+
+Requirements: A DDb Login
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: G96ad6zaNp9j5rfm

@@ -1,0 +1,29 @@
+Title: A list of species that have 5 or fewer hectads
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This query returns a list of all species that have 5 or fewer hectads within a region.</p>"},"id":"17c6b2c6-f587-41a8-b52b-528dd8b3f30c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://OZpA3PXOfhodGjbJ"],"src":"","alt":"species that have five or fewer hectads in Wales","caption":"species that have five or fewer hectads in Wales: click to see the query in the DDb (login required)","link":"https://database.bsbi.org/search.php#retrievesaved=0.wg542&query=c06d35ee319bc6fd7ed74c8ff0a8bf78","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"95c90e99-bdaf-45e4-9506-55762fefb420","isHidden":false,"type":"image"},{"content":{"text":"<p>Apart from the usual clauses to exclude invalid records, the important elements are:<br></p>"},"id":"95550c90-9d54-4da8-aece-d0e1c7847bd1","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Grouping by species (because infra-specific taxa would complicate things)</li><li>Counting distinct hectads (rather than a count of records)</li><li>Setting a maximum frequency on the grouped total (hectads in this case)</li></ul>"},"id":"a4fe24e9-4ef5-425c-9179-3ac41aa76f16","isHidden":false,"type":"list"},{"content":{"text":"<p>These options are available on the <strong>more options &gt; grouping</strong> submenu</p>"},"id":"e33aa71b-96b0-44e9-81d7-2458dd63113a","isHidden":false,"type":"text"}],"id":"668e7a7e-72d7-40ab-8693-10fc8abeca0d","width":"1/1"}],"id":"ebdc6ef6-b33d-4951-bfdc-c98d0edd6a2a"}]
+
+----
+
+Description: An example search for the DDb
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: eqHYpucSW1cUdTxC

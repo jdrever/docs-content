@@ -1,0 +1,29 @@
+Title: Set up and maintenance
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"notecontent":"See also chapters 1, 2, 6 and 10 in the (link: page://fzx5iJ0mmOfdbUp5 text: BSBI MapMate Book)."},"id":"8fc971ec-5382-45b8-98cf-2bd4c8a8ada5","isHidden":false,"type":"note"},{"content":{"notecontent":"If you are having issues installing MapMate on a Windows 10 or 11 computer, please (link: https://drive.google.com/file/d/11zL8ILpRQ-OFYUv0x1jRrzWCdjfke0mA/view text: follow this guidance)."},"id":"4d1a8976-81a8-492e-942c-379a526aab15","isHidden":false,"type":"note"},{"content":{"level":"h2","text":"<strong>Using \"My Configuration\"</strong>"},"id":"86e5a8e7-dbe0-4d0e-9bd9-ee2bae632a62","isHidden":false,"type":"heading"},{"content":{"text":"<p>When you first install MapMate you are asked to complete the \"My Configuration\" wizard. It is also useful to re-visit My Configuration periodically – for example after installing new patches. This video shows how to set up My Configuration, and what effect it has on the rest of the program.</p>"},"id":"ecab52c5-e7d5-4c0a-bf1f-8c2f54388789","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/R757w9NOH1w","caption":"Using \"My Configuration\" video"},"id":"4d9687ae-b800-4282-8c82-12e26a03a06c","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"<p><strong>Backing up</strong></p>"},"id":"6960f9c6-1220-4c42-9f1e-44a848414270","isHidden":false,"type":"heading"},{"content":{"text":"<p>As soon as you start entering data you should be backing up your copy of MapMate. There are two ways of doing this, as shown in the two videos:</p>"},"id":"35435d05-21c1-4d02-8206-4104f8ee5509","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Backing up by creating a file from within MapMate"},"id":"a1515218-120b-4ad6-8c28-3f173a88c343","isHidden":false,"type":"heading"},{"content":{"text":"<p>Simple to do and backs up data safely, but doesn't back up any customised maps.</p>"},"id":"9099b41e-a8d8-4abd-babe-6f08cfbea401","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/0vnFTSBjEcw","caption":"Backing up from within MapMate video"},"id":"21c733bd-831c-4c33-918a-a04887da94fa","isHidden":false,"type":"video"},{"content":{"level":"h3","text":"Backing up by copying the MapMate folders (backs up everything including maps)"},"id":"6dce74be-70cc-4b33-a196-2a35d6bff31a","isHidden":false,"type":"heading"},{"content":{"url":"https://www.youtube.com/watch?v=mfVqFe-vBKM&t=13s","caption":"Backing up by copying folders"},"id":"fd8eb1f5-f27c-4695-b2fa-12cd4e2ec427","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"<p><strong>Updating the MapMate software</strong></p>"},"id":"8a396f1e-6507-4fed-a0d4-78dd54250aa0","isHidden":false,"type":"heading"},{"content":{"text":"<p>The video demonstrates how to use \"Smart software update\" and how to download \"Patches\".</p>"},"id":"35f6a83b-1e2f-406f-aa4a-13d6b958cafa","isHidden":false,"type":"text"},{"content":{"url":"https://www.youtube.com/watch?v=qFP_sd7fdJE&t=1s","caption":"Updating the software and downloading patches video"},"id":"419bac29-4c18-4fea-b3f7-fed1776a1509","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"<p><strong>Compact and repair</strong></p>"},"id":"678a8e76-3acb-44c3-83cc-3560bfa61dd3","isHidden":false,"type":"heading"},{"content":{"text":"<p>Over time, the Access database that MapMate uses can become larger than it needs to be. It's worth running the Compact operation once or twice a year to keep everything in order, and if you think there may be a fault with your database (e.g. if records have gone missing or queries are not running) then it is worth trying the Repair operation as well. Watch the video for a demonstration, and the sequence is:</p>"},"id":"f60889c2-3d5f-493a-a1d5-6eaac759f63a","isHidden":false,"type":"text"},{"content":{"text":"<ol><li>Create a backup of your copy of MapMate.</li><li>On the main MapMate screen, click on the blue \"dataset\" label (top middle of the screen), and choose Tools - Compact. Wait for this process to finish.</li><li>If you need to run the Repair operation, click again on the blue \"dataset\" label (top middle of the screen), and choose Tools - Repair. Wait for this process to finish.</li></ol>"},"id":"3ce87eeb-c687-4064-8fa7-bd8281518990","isHidden":false,"type":"list"},{"content":{"url":"https://www.youtube.com/watch?v=UeYcZwVIUoI&t=1s","caption":"The Compact and Repair operations video"},"id":"0c3a2bb8-bef8-4fe6-b41b-631eff7516e7","isHidden":false,"type":"video"}],"id":"d1051a9c-1b17-4603-aadd-3a11410c4984","width":"1/1"}],"id":"c6467815-4328-4b52-9edb-88f0af616dd1"}]
+
+----
+
+Description: Description of the setup and maintenance processes when using MapMate
+
+----
+
+Audiences: Vice County Recorders, Recorders
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: 3nRguYKe52Iz18VL

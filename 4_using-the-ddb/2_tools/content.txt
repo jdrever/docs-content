@@ -1,0 +1,29 @@
+Title: Tools
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p><a href=\"/@/page/gpBUpy5vL8UmkGcJ\">Checklists</a>, <a href=\"/@/page/gxizaMZl8wwdJQNR\">Grid reference lookup</a> and several <a href=\"/@/page/g3VRjUS3bxx4l9Hj\">Data validation tools</a> are accessed via the Tools tab.</p>"},"id":"1b21c373-ab92-4af3-834e-b6b2a3378f68","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://i1pi9Mp9vPhEWonN"],"src":"","alt":"Screenshot of the Tools menu","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"0f007719-4ccf-4136-a64e-7a1416f9521f","isHidden":false,"type":"image"}],"id":"0d745a13-34e7-4f70-9853-1794fc0122c7","width":"1/1"}],"id":"7ef4c984-ec77-4ff5-b29b-1b11303155dc"}]
+
+----
+
+Description: Summary of the tools offered by the DDb (checklists, grid reference lookup and data validation tools)
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: DWvNE4NwA5gUd8oD
