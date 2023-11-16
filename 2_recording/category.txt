@@ -2,7 +2,7 @@ Title: Recording
 
 ----
 
-Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This section contains general purpose guidance on botanical recording.  </p>"},"id":"55b72822-9875-4fc2-9235-bbb1885eb3b4","isHidden":false,"type":"text"}],"id":"573b8c13-36df-4265-818c-a23d2dcaff00","width":"1/1"}],"id":"02341fdc-a514-4443-822f-b7413766691c"}]
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This section contains general purpose guidance on botanical recording.</p>"},"id":"55b72822-9875-4fc2-9235-bbb1885eb3b4","isHidden":false,"type":"text"}],"id":"573b8c13-36df-4265-818c-a23d2dcaff00","width":"1/1"}],"id":"02341fdc-a514-4443-822f-b7413766691c"}]
 
 ----
 
