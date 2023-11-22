@@ -6,7 +6,7 @@ Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Welcome t
 
 ----
 
-Credits: These pages have been compiled for BSBI by Martin C. Harvey, with funding from (link: http://www.snh.gov.uk/ text: Scottish Natural Heritage)
+Credits: These pages were originally compiled for BSBI by Martin C. Harvey in 2011–2012, with funding from Scottish Natural Heritage. Additional material provided by Martin Rand.
 
 ----
 

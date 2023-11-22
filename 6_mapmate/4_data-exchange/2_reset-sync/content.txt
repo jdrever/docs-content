@@ -1,0 +1,29 @@
+Title: Reset Sync
+
+----
+
+Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The MapMate \"Replicator\" is used to create \"sync files\" for exchanging data with other MapMate users. Usually the sync process works well, but if you ever have reason to suspect that not all your records have arrived where they should have done, this is the process to follow.</p>"},"id":"4f75b00f-02b7-4877-933e-a6ccbdaac1ed","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<p><strong>A. Compact your database</strong></p>"},"id":"1877769b-8f34-4142-89ec-e874ed1d6cda","isHidden":false,"type":"heading"},{"content":{"text":"<ol><li>Create a backup of your copy of MapMate before going any further.</li><li>On the main MapMate screen, click on the blue \"dataset\" label (top middle of the screen), and choose Tools - Compact. Wait for this process to finish (look for a message in small text at the bottom-left of the MapMate window).</li></ol>"},"id":"de5c393e-1f91-4238-80a2-2021c56c1722","isHidden":false,"type":"list"},{"content":{"text":"<p>(There is also an option via the same \"dataset\" label to choose Tools - Repair, but this should not be needed unless you suspect that something is wrong with your installation. If you do need to run the Repair, you should back-up first and then make sure the process finishes before doing anything else with MapMate.)</p>"},"id":"f7bd8acc-0b3b-4f51-843f-9d49a50ca044","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<p><strong>B. Reset the sync record</strong></p>"},"id":"453ef3ba-a52f-4c6f-b868-a0db85e45c92","isHidden":false,"type":"heading"},{"content":{"text":"<ol><li>Open the Replicator, and ensure that at the top it says \"Synchronising with Partner ...\" [the CUK for the person you are trying to sync to]. If the correct partner is not showing, select the correct one by going to the Replicator's \"Sync\" menu and choosing Change Default Partner.</li><li>Go to the Replicator's \"Special\" menu and choose Reset Sync Record. You will see a message:</li></ol>"},"id":"107ac80f-c86f-4afd-aced-73b84888a806","isHidden":false,"type":"list"},{"content":{"location":"kirby","image":["file://qkMj97u7q6IJ6Bf1"],"src":"","alt":"A dialog box with the message: This will RESET the synchronisation record with centre CUK to its 'start of life' state.  ALL your data will be sent to Centre CUK.  OK to Reset?  (Buttons OK and Cancel)","caption":"","link":"","ratio":"","crop":"false","fixedwidth":"600","iscentred":"true"},"id":"b379d50a-a6fe-4094-8f3e-647dbb3a894d","isHidden":false,"type":"image"},{"content":{"text":"<p>Click on OK.</p><p>3. You can now click on the Synchronise button to generate a sync file in the normal way. This file will contain all the records that are due to go to your partner, regardless of whether they've been sent before or not (if the partner already has the records they will be ignored, this process doesn't duplicate records at the receiving end).</p>"},"id":"754a8bb8-2bdb-47a2-822f-17ebfd99819f","isHidden":false,"type":"text"}],"id":"0b40c1aa-1139-4f27-8fda-3a5c1518a512","width":"1/1"}],"id":"38f0d472-9e5f-4c9b-ba77-9ca4d720950f"}]
+
+----
+
+Description: 
+
+----
+
+Audiences: 
+
+----
+
+Requirements: 
+
+----
+
+Reviseddate: 
+
+----
+
+Related: 
+
+----
+
+Uuid: cEBzAlaosI65CMmt
