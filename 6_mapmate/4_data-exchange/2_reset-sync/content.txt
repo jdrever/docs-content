@@ -6,11 +6,11 @@ Maincontent: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>The MapMa
 
 ----
 
-Description: 
+Description: How to reset the sync in MapMate
 
 ----
 
-Audiences: 
+Audiences: Vice County Recorders
 
 ----
 
